@@ -1,0 +1,21 @@
+---
+court: "United States District Court for the District of Massachusetts"
+decided: "1870-11"
+citations: ["20 F. Cas. 4", "1 Lowell 491"]
+reporter: "f-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The PROMETHEUS."]
+source_url: "https://static.case.law/f-cas/20/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6562428
+---
+
+# The Prometheus
+
+## Majority (LOWELL, District Judge.)
+
+LOWELL, District Judge.
+The libellants were the general owners of this steamer, and chartered her to a corporation called the Washington and Boston Steamship Company, to run between Washington and Boston for a term of three months, for twelve hundred dollars a month, payable monthly in advance. The charterers, who had a right to buy the ship at the end of the charter, were to man, victual, and coal her, and to pay all expenses, to keep her Insured for the benefit of the owner's, and to give security that no bills should remain unpaid so as to become a lien upon the vessel. The libellants propound that this contract has been Droken by the charterers in several particulars, and pray that the possession of the vessel may be decreed to them. I cannot enter such a decree, even on a default, because the libel shows no sufficient ground on which to rest it By their contract the libellants have seen fit to put all the power into the hands of the other party, and to trust to their agreement for indemnity. Not merely the right to use the vessel, but the entire control and possession are surrendered, with no clause for repossession on a breach, nor any words which express or imply a condition by non-performance of which the contract may be defeated. Whether the libel-lants did not care to be under the liabilities of ownership as to third persons, or for whatever other reason, it is clear that they have retained no hold upon the ship by a master or otherwise. In this state of the case I am not aware that any court, whether of law, equity, or admiralty, can intervene and save the parties from the plain consequences of their contract. No authority has been shown me, and I know of none justifying such action. It is not the jurisdiction of this court, but the title of the promoters of this action that is wanting. Libel dismissed.
+Another libel against the same vessel, filed a few days later, was soon after brought on and argued ex parte, in which the seamen proceeded for their wages, and the general owners of the ship intervened as claimants. It appeared in this cause that the wages were due and unpaid, and ought to have been paid by the charterers, who did not appear, and whose master formally relinquished possession to the owners.
+LOWELL, District Judge. In this cause, the general owners of the ship may have a warrant to receive the vessel on filing the usual stipulation to the action. The difference in their position in the two causes is, that when they were libellants they showed no right of possession as against the persons then named as special owners. Here it is shown that they are the owners, and that the charterers do not choose to intervene, but are quite willing the vessel should be sold for their debt. If the vessel were sold, it is clear the general owners would be entitled to the proceeds, and the court is not bound to put them to the expense and danger of loss which may accompany a sale. A vessel arrested by holders of maritime liens, may be delivered to any person showing a just title, although some one who is notified and does not choose to appear may have an equal or even better right to the immediate possession. It is to be observed, too, that the failure of the charterers to claim the vessel or to pay the wages, and the affidavits in the case show that they have In fact abandoned the vessel, while in the petitory suit, on the contrary, the allegation was that they wrongly refused to deliver up the vessel to the owners. Perhaps the truth may be that the charterers were quite ready to abandon the vessel, but could not agree upon terms of settlement with the owners. If the first libel had set up an abandonment, perhaps the evidence now adduced would have been sufficient to prove it. Warrant to deliver granted.
