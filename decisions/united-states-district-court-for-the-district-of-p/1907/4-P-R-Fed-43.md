@@ -1,0 +1,36 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "459"
+decided: "1907-05-22"
+citations: ["4 P.R. Fed. 43"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EULALIA CAMANCHO ET AL. v. LUIS RUBERT ET AL."]
+source_url: "https://static.case.law/pr-fed/4/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6065691
+---
+
+# Camancho v. Rubert
+
+## Majority (Rodey, Judge:)
+
+Instructions by
+Rodey, Judge:
+Statement.
+The facts in this case were about as follows: Deceased was-an employee in the sugar plant of defendants. A stairway-led from an upper story to a lower floor. It had an ordinary-railing on its side, outside of and below which several vats of hot syrup were situated. The evidence was extremely conflicting as to whether or not deceased, when coming down the stairway, by reason of its wet and slippery condition, slipped thereon and rolled or fell under this side or hand rail of the-stairway into one of these tanks of hot syrup, or whether he-intentionally stepped under or over this hand rail, and, when stepping across the top of the vats of hot syrup, to clean up some lime that had dropped through the flooring from above to the-floor below, behind these tanks, accidentally slipped into one of them. There was a good deal of evidence tending to show that this latter theory was probably true; such as expressions-said to have been made by the deceased after he had been pulled out of the scalding syrup immediately before his death, etc.
+Additional facts may be gathered from the instructions which-Rodey, Judge, omitting the formal parts, gave to the jury as-follows:
+This action is brought by the plaintiffs, the wife and children of the deceased, against tbe defendants, binder tbe employers’ liability act of 1902, of Porto Pico (Bev. Stat. pp. 150, 151), the material portions of which are as follows:
+“Section 1. That where, after the passage of this act, personal injury is caused to an employee who is himself in the exercise •of due care and diligence at the time:
+“By reason of any defect in the condition of the ways, works, or machinery connected with or used in the business of the employer, which arose from or had not been discovered or Remedied, owing to the negligence of the employer or of any person in the service of the employer, and intrusted by him with the duty of seeing that the ways, works, or machinery were in proper condition; or
+“By reason of the negligence of any person in the service •of the employer intrusted with the exercising of superintendence, whose sole or principal duty is that of superintendence.”
+This law, in another place, limits the recovery to $3,000. The burden is upon the plaintiffs to establish the negligence of the employer or of any person in his employ intrusted by him with the duty of seeing that the ways, works, or machinery of the plant were in proper condition, and also to show that the deceased was, at the time of the accident, in the exercise of due care and diligence upon his part.
+If you believe, from a preponderance of the evidence, that the stairway in question was properly constructed and reasonably safe for the uses for which it was intended, and in reasonably good condition, and was not in such condition as to expose the deceased, as an employee, to any unusual risk, then you should find for the defendants.
+But if, on the other hand, you believe, from a preponderance of tbe evidence, tbat tbe deceased was in tbe exercise of due care and diligence himself, and tbat, in passing down tbe stairway, be slipped and fell, either in a purely accidental manner or by reason of any defect in or condition of tbe stairway, and then, because of there being no sufficient protection on tbe side qf tbe stairway, be fell through and into the tank of hot syrup,, and met bis death, then, if you further believe, from a preponderance of the' evidence, tbat such stairway was in an unsafe condition by not having proper guard boards or guard rails on tbe side next to these dangerous tanks of hot syrup, you should find for tbe plaintiffs, and assess their damages at such sum. within tbe limit of $3,000 fixed by law as you believe proper-under all the circumstances and evidence and culpability of the-defendants; but tbe question is left to you, as reasonable men, to say, under tbe evidence in tbe case, whether or not a single band rail was a reasonable safeguard on tbe side of this stairway near these dangerous tanks.
+You are further instructed tbat, while employers are not absolute insurers of tbe safety of employees, yet they are bound tó furnish reasonably safe places for their employees to work-in, and reasonably safe tools and appliances for them to work with, and are liable for negligence in tbat behalf; but this does-not mean tbat they must furnish tbe best tbat it is possible ten procure. They must simply furnish those which do not expose the employee to unusual or unreasonable risk, considering the danger to be provided against. What would be reasonable care-in one case might be wholly inadequate in a more dangerous, situation.
+If you believe, from a preponderance of the evidence, that the deceásed, of his own volition, whether on the employer’s-business or not, went out of the regular way down that stairway, and attempted to cross over these dangerous tanks by stepping on the edge of them, and that he slipped from the edge of the tank into the same, and met his death, then he was guilty of such negligence as that his representatives cannot recover here, and you should find for the defendants.
+But, if you believe, from a preponderance of the evidence, that, by .reason of the lack of light, or because of the damp or other dangerous condition of the steps, the deceased tripped or slipped upon the steps in such manner as to fall into the tank of hot syrup, where he met his death, and that the same occurred through no fault of the deceased, then you must find for the plaintiffs, and assess their damages within the limits aforesaid.
+You are further instructed that, when an employer furnishes safe quarters, safe buildings, and safe tools for his employees to work in and work with, it is the duty of the latter to use the same in a proper manner; and,' if their own neglect or failure to use the same in a proper manner is the sole and proximate cause of their injury, they cannot recover.
+The fact that this stairway may have had an additional guard rail put upon it after this accident, and that the defendants may have installed more lights in the plant, is only a circumstance, and does not render the defendants liable in this case, unless you believe, from a preponderance of the evidence, as reasonable men, that the lights and the guard rail theretofore used were insufficient under the circumstances and the danger to be provided against, and were the proximate cause of the accident. In fixing the damages in a case like this the jury may take into consideration the earning capacity of the deceased, his age, his health, and his probable duration of life, and the1 ages and dependent condition of the children and the widow.
+The verdict was for the defendants.
