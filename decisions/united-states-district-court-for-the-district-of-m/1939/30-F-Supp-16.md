@@ -1,0 +1,30 @@
+---
+court: "United States District Court for the District of Massachusetts"
+docket: "680"
+decided: "1939-11-06"
+citations: ["30 F. Supp. 16"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE BLACK EAGLE."]
+source_url: "https://static.case.law/f-supp/30/cases/0016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4213755
+---
+
+# The Black Eagle
+
+## Majority (McLELLAN, District Judge.)
+
+McLELLAN, District Judge.
+The libel alleges that the libellant, g longshoreman, sustained injuries while discharging cargo on April 25, 1936 from’the Steamship “Black Eagle.” The-claim ap7 pearing in the libel as amended is in substance that the libellant’s injuries -were caused, by a breach of duty by the ship’s owner in negligently failing to furnish him with a safe place to work. The particular charge is the insufficiency in length of a hatch board or hatch boards in the center section of No. 2 ’tween decks hatch,- where the libellant was working, in consequence whereof the hatch cover or covers gave way when the libellant stepped thereon and he fell to the lower hold. The facts follow:
+■ The Black Eagle having discharged a part of her cargo .in New York from the ’tween deck and lower holds which necessitated the removal of the covers in the ’tween deck hatch No. 2, arrived in Boston April ..24, 1936..' The hatch covers in the ’tween deck had then been put in place. On the morning of April '25, 1939, the Nacirema Operating Company, a stevedoring concern, had been or was employed as an independent contractor to discharge the re-, maining cargo.
+The libellant was employed by this Company at about 8:30 A. M.¡ April 25, 1936, as. a longshoreman and went to the “Black Eagle” to assist -in discharging the cargo. He joined other men at No. 2 hatch on the ’tween deck. His work consisted of helping to make up loads-to be hoisted through the top hatch, the bpom being rigged over the after section of this No. 2 ’tween deck hatch which consists of three- sections.
+The stevedores- were taking cargo out of the after end- of the ’tween deck' and in so doing dragged' it in 'canvas slings forward to the after section of the No. 2 hatch, whence the loads were hoisted. About ah hour after the libellant had' begun his' work one of the loads which'had been dragged out became loosened and he was directed to fix it. He stepped on the hatch -cover iri the center section and dropping some twenty feet through the hatch into the' lower hold, landed on'some closely packed bales of rags below which was a partial cargo of steel. With him went one or more hatch boards. The whole No. 2 hatch which in-r eludes the center section through which Martignetti fell is 32 by 24 feet with a three inch coaming. There is a footing angle which runs from the top of the coaming to the deck on a slant to prevent loads from catching when dragged on to the' hatch cover. The hatch as heretofore stated is in three sections. The hatch covers in one section are of one length and in the others of different lengths. In the center section with which we are here concerned they are supposed to be about 8 feet and 11 inches long. There are 24 hatch boards in each section and in the center section they rest on two king beams each having a four inch flange' .on which the hatch covers are designed to rest. Between these king beams is a blind beam. The stevedores had not removed the hatch boards in the center section of the No. 2 hatch before the accident.
+I can find no adequate cause or explanation for the accident except -that the hatch cover or covers on which the libellant stepped were so short that when one end covered the whole of the flange on one beam it had no sufficient support upon the flange at the other end. The testimony was not all one way as to the length of the. hatch boards, but the testimony as to their sufficiency contains nothing to explain why they gave way as undoubtedly they did. There is nothing to indicate as a matter of law that any negligence of the libellant contributed to his injury and I find as a fact that he exercised due care in the premises.
+There was evidence of the owner’s negligence of the kind heretofore set forth and upon all the evidence I find that the efficient and proximate cause of the libellant’s injuries was the negligence charged in the libel.
+■ When ■ Martignetti fell, he had long had an arthritic condition of the bones of his back as shown in the X-ray pictures adduced at the trial.. When he fell, he received an injury to the muscles of the back and his arthritic condition plus his then age of 51 years prevented as prompt a recovery as but' for rthese factors would probably have.qccurred. His weekly pay at the time of the accident was about $35. He was totally disabled for-.some months and partially disabled so that he could not perform the heavy work required of a longshoreman for a considerably longer period, -the exact duration of which I can not state definitely. But I am satisfied and find that he could not do a stevedore’s work until the expiration of a year after the accident. Considering the pain he suffered after the accident, his four-weeks of hospital treatment the cost of which was $164/the inconvenience of such confinement, his other medical expenses so far as they were reasonably necessary, the diminution, of his earning, capacity, his substantial- but not complete recovery from the effects, of the- accident, I estimate and find his damages to be four thousand dollars.
+.The libellant’s injuries were caused by a negligent breach of duty for which the libellee is responsible and the libellant is entitled to compensation for his injuries.
+' The libellant having been free from contributory negligence is subject to no deduction ■ for failure to exercise proper care. '
+The libellant is entitled to recover four thousand dollars for his injuries and costs.
+A decree to this effect may be entered.
