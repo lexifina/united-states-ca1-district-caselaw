@@ -1,0 +1,26 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "369"
+decided: "1906-08-13"
+citations: ["2 P.R. Fed. 61"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE PROTEST OF J. H. CAUSTEN, Collector of Customs at San Juan, Porto Rico, for a Review of the Decision of the Board of General Appraisers Sitting at New York, Sustaining the Protest of Cerecedo Hermanos y Compañia against the Said Causten’s Classification and Assessment of Certain Wines Imported by Them."]
+source_url: "https://static.case.law/pr-fed/2/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6065750
+---
+
+# In re the Protest of Causten
+
+## Majority (Rodey, Judge,)
+
+Rodey, Judge,
+delivered the following opinion:
+The record in the case shows that the collector of customs at the port of San Juan, Porto Pico, charged the importing firm on thirty cases of red wine imported from France, containing twenty-four bottles in each case, and each bottle of which the collector alleged contained 17.3 fluid ounces, or 1.3 ounces more' than a full pint, at the rate of $1.00 per dozen bottles, which,, after deducting the proper amount under an existing reciprocity-treaty with France, made a net amount of $1.25 per dozen bottles, or $2.50 per box or case, as packed, of twenty-four bottles.
+The importing firm contends that the rate they should be-charged is exactly half this amount, plus 5 cents per pint, or fractional part thereof, for any excess beyond one pint found in each bottle. The board of appraisers sustained this construction, and said (T. D. Vol. 11, No. 7, p. 28) : “The wine in question being contained in cases of twenty-four bottles, and! each bottle containing over a pint, was clearly subject to duty at $1.60 per case, and any excess beyond this quantity found in such bottles would be subject to a duty of 5 cents per pint, or fractional part thereof.” The goods were classified and the duty levied upon them under ¶ 296 of the tariff act of 1897 (30‘ Stat. at L. 174, chap. 11, U. S. Comp. Stat. 1901, p. 1654), the-pertinent portion of which reads as follows: “In bottles or jugs, per case of one dozen bottles or jugs, containing each not more than one quart and more than one pint, or twenty-four bottles or jugs containing each not more than one pint, $1.60 per case; and any excess beyond these quantities found in such bottles or jugs shall be subject to a duty of 5 cents per pint, or fractional pai’t thereof; but no separate or additional duty shall be assessed on the bottles or jugs.”
+The question involved is not without difficulty, but under the rule that courts of justice must give effect to every portion of a statute, rather than to only a part of it, the court is bound to sustain the board of géneral appraisers. It is difficult to see what tbe words used in the statute, “and any excess beyond these quantities found in such bottles or jugs shall be subject to a duty of 5 cents per pint, or fractional part thereof,” are intended to mean, unless it be that any surplus made up of small quantities found in such “pint” bottles, more than one pint, and in “quart” bottles, more than one quart, shall be subject to a duty, on the aggregate of these small quantities, of 5 cents per pint, or fractional part thereof. There could be no fractional part of a pint if the law intended, as claimed by the collector, to charge for a full additional pint for every small surplus quantity found in each bottle.
+Counsel for the government, during the hearing, claimed that, if this view of the court is sound, then importers can easily evade the law by packing their wines in cases of twenty-four bottles containing just a little less than a quart each, and thus import the difference between a pint and almost a quart at 5 cents per pint, when twenty-four pints straight in bottles would have to pay $1.60, or 6% cents per pint.
+We do not think the statute justifies this contention. We believe that the intention of the lawmakers was to charge $1.60 per dozen “quart” bottles, or twenty-four “pint” bottles of wine, in a single case or box, and that, within reasonable limits, if the quart bottles contained a little less than a quart, and the pint bottles any less than a pint, they should still pay the duty as though they contained those full quantities respectively; but that, if either of them ran slightly over the prescribed quantities, then that the surplus should be subject to a, duty at the rate of 5 cents per pint, or fraction thereof, in the aggregate. It was in evidence that “quart” and “pint” bottles are not exactly uniform in size in commerce, nor are they always filled to exactly the same level in particular shipments. In fact, it was in evidence that the measurements of the wine in question ran under the pint (16 oz.) and over the pint as to particular bottles, and that the 17.3 fluid ounces was, in the opinion of the collector, the average of the thirty cases. The bottle exhibited to and measured before the court during this hearing ran even 17 ■ounces, but it was filled to the cork.
+The action of the board of general appraisers will therefore be sustained.
