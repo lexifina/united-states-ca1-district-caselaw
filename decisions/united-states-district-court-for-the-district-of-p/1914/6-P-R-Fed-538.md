@@ -1,0 +1,29 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "871"
+decided: "1914-02-21"
+citations: ["6 P.R. Fed. 538"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COMBAS v. RAMÓN VALDES."]
+source_url: "https://static.case.law/pr-fed/6/cases/0538-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6066656
+cites_cases: ["30 La. Ann. 926"]
+---
+
+# Combas v. Valdes
+
+## Majority (HamiltoN, Judge,)
+
+HamiltoN, Judge,
+delivered tbe following opinion:
+Tbis action was brought and trial bad during tbe life of tbe defendant, Ramón Yaldes. It resulted in a verdict for tbe plaintiff, wbicb was later set aside and a new trial granted. In tbis state of tbe case defendant died. Plaintiff now moves tbat tbe administrator of tbe estate of tbe defendant be substituted. On tbe other band, tbe administrator appears for tbe purpose of moving tbat tbe suit be dismissed because it abated upon the death of tbe defendant. Tbe cause of action is damages for personal injuries alleged to have been suffered by tbe plaintiff through tbe negligence of tbe employees of the deceased defendant in tbe operation of a railroad owned by the said defendant, and now under tbe control and management of tbe administrator in question.
+Tbis brings up tbe question' whether, under tbe laws of Porto Rico, an action for damages arising ex delicto during tbe lifetime of a defendant survives against bis estate after bis death.
+Section 43 of tbe Code of Civil Procedure, as amended in 1906, says tbe cause of action shall not abate by reason of the death of the défendant, but the administrator shall be summoned, and the cause shall proceed. The section distinguishes-between causes which survive and those which do not, but this-element by its terms applies only where the plaintiff dies. There seems to be a survivor in all cases where the defendant dies. There has been- no construction of this phase of the statute in Porto Pico. It would seem that a distinction is drawn between the death of the plaintiff and that of the defendant.
+Even if it was intended that this should be true of the defendant only if the cause of action be one which survives under some other principles of law, the cause of action in the present case would under the civil law, be of that character. It is true that this would not be so under the common law; that system of jurisprudence regards more the individual than the family. The peculiarity of the civil law is that it treats estates and families as themselves entities, while the common law lays more stress upon the individuality of those making up that family. There is consequently less freedom in making wills under the civil than under the common law, and the heir, when he accepts the estate, is under greater liability than at the common law. TIis freedom is limited to whether or not he will accept the estate; if he elects to accept, he is substituted, to all intents and purposes, in the place of the decedent. Acceptance and repudiation of the inheritance are acts entirely voluntary.- Civil Code of Porto Pico, § 955. And through an acceptance pure and simple, or without benefit of inventory, the heir shall be liable for all the charges on the estate, not only with the property of the same, but also with his own. Civil Code of Porto Pico, § 969. There is no dispute in this ■case that the acceptance of the estate has been complete. The Civil Code of Porto Pico, § 667, declares “the inheritance includes all the property, rights, and obligations of a person, which are not extinguished by his death,” and Manresa in his Commentaries says of this section that “among these obligations ■are included not only those which the deceased may have entered into by contract, but also those which arise from his fault or negligence,” 5th Com. 323. The kinds of obligations regarded by law are defined in § 1056 of the Civil Code of Porto Rico as. those “created by law, by contracts, by quasi-contracts, and by illicit acts and omissions, or by those in which any kind of fault or negligence occurs.”
+Somewhat the same rule obtains under the French civil law, certainly where, during the lifetime of the tort feasor, issue has been joined. Edwards v. Ricks, 30 La. Ann. 926, 927.
+Manresa, commenting on the equivalent of § 969 of the Porto Pico Civil Code, says that obligations of a purely personal character are not transmitted with inheritances. Precisely how far this goes it is not necessary to determine in this case. The liability set up in the complaint arises under §§ 1803, 1804 of the Civil Code, and in this instance applies “not only for personal acts or omissions, but also for those of the persons for whom they should be responsible.” “Owners or directors of an establishment or enterprise are equally liable for the damages caused by their employees in the service of the branches in which the latter may be employed or on account of their duties.” What might be the result of the death of a defendant in a suit for a personal tort committed by him is not involved in the case at bar. He chose to operate a railroad, and have under him in this business all the usual officers and employees, and it is this “establishment” which has been transmitted to the administrator in question, with the result that damages by such officials and employees descend with, the establishment itself. When the inheritance is accepted, claims of this character survive with it.
+The conclusion follows that the motion to revive the case against the personal representative must be granted, and the motion of this representative to dismiss the suit is denied.
+The same principle applies to the suit of Norberto Quiles, as personal representative of Manuel Quiles v. Ramón Valdes, No. 980, Law, and a similar order will be entered.
