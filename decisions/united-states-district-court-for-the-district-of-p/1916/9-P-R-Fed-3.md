@@ -1,0 +1,25 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "1120"
+decided: "1916-05-22"
+citations: ["9 P.R. Fed. 3"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HORTENSE DORVALLE, Plff., v. AMERICO MANCINI, Dft."]
+source_url: "https://static.case.law/pr-fed/9/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12110932
+---
+
+# Dorvalle v. Mancini
+
+## Majority (HamiltoN, Judge,)
+
+HamiltoN, Judge,
+delivered tbe following opinion:
+Tbis case comes up upon a motion for a new trial. Tbe point insisted upon in tbe argument on bebalf of tbe defendant, wbo makes tbe motion, is tbat under tbe contract tbe defendant could dismiss tbe plaintiff upon two weeks’ notice, and that under tbe decisions in such a case be cannot be held liable for more than tbe two weeks’ wages; that anything else would be practically damnum absque injuria.
+This point was not presented before, and will need some consideration. I have not examined the authorities, but it seems to me that this case is to be decided less upon the authorities than upon the contract itself. Authorities, of course, are all based upon particular contracts. This contract was made in New York, but it was to be performed in Porto Rico and Venezuela, or elsewhere in Latin America. That was the object of it. That is the way it was to be carried out, and it must be construed in the light of those surroundings, with that object. One of the conditions, we might call it, of the contract gives this right of discharge upon two weeks’ notice, No. 14, I believe it is. Up above, I do not remember the number, but possibly the 10th, is an express agreement also that the salary must be paid at the end of every week, and, on the trial, construing these two together, I practically came to the conclusion that the defendant could discharge the plaintiff upon two weeks’ notice, provided the defendant was not in arrears himself for salary to an artist 1,500 miles away from where the contract was made. It seems to me that this is the proper construction, that the two go together, and that the two weeks’ notice could not begin to run until the defendant was in position to take advantage of clause No. 14 by having himself complied with clause No. 10, we will say, — whatever the number was. I see no reason to change that construction. It seems to me it is only fair, and I would rather, if I am wrong in this, have some other court pass upon it.
+In the second place, however, there is an incidental matter that comes up, which should be disposed of one way or the other. The jury found a verdict, I believe, for $770. That in itself is below the jurisdiction of' the court; but of course the amount of the verdict does not control, provided there is enough in the case to raise a doubt as to whether it might not have been over the jurisdictional thousand. That is a point which requires a little thinking. The contract was made on January 28th. The plaintiff sailed away from the Island on April 5th. We will assume she arrived in New York on April 10th. That makes seventy days between the beginning of the contract and the end of it, from one point of view. That would be ten weeks, which, at $100 a week, would be $1,000. She got $100, so that would, in one view, limit the plaintiff’s possible recovery to $900. That is to say, if we assume that her going back put it out of her power to perform the contract. If she could not herself perform the contract, she could not complain. But I think that way of looking at it would not be correct. It is true she went away; but she had to be somewhere, and it would seem to my mind that while there might have come up some question as to whether she was always ready and willing to perform the contract, there is nothing to the contrary in the case, and going back to New York did not necessarily make her incapable of performing the contract. It would make her incapable of performing it in less than a week’s notice, but otherwise it would not control. So I do not think that the possible $900 could fairly be said to control. I think she could fairly recover anything that the jury thought she was entitled to, up to the-$2,500 claimed.
+While I cannot lay down the rule that I do not want to hear applications for new trials, for that would not be right at all, and it is a pleasure to hear them, especially from counsel of sucb standing as those now before me, — I think I have- a right to feel a little less reluctant to refuse motions for a new trial now, when appeals are so easy. So I do not think that either side is being denied justice by my action. If counsel wish to submit anything further upon it, I will of course be glad to read it, but, for the reason mentioned at the beginning, I do not think it would make any difference. It is a question of construction of this contract, and, unless there is some other contract just like it which was construed differently, I do not think it would make any difference how many authorities are cited.
+The motion is'therefore denied.
