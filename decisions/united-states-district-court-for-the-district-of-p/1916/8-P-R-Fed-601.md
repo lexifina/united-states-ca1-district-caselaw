@@ -1,0 +1,24 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "1127"
+decided: "1916-05-10"
+citations: ["8 P.R. Fed. 601"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ADDIE M. BACON, Plff., v. CHARLES H. MARKS, Dft."]
+source_url: "https://static.case.law/pr-fed/8/cases/0601-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12114279
+cites_cases: ["12 So. 382", "7 P. R. R. 551", "97 Ala. 596"]
+---
+
+# Bacon v. Marks
+
+## Majority (HamiltoN, Judge,)
+
+HamiltoN, Judge,
+delivered tbe following opinion:
+A document is offered showing a proceeding in the district court which incidentally sets out what was done in the municipal court in a suit of desahucio, as it seems to call it. This came up under what is sometimes spoken of as a special proceeding. It is not in the general law as to special proceedings of IVIarch 9, 1905, that is to say, the long law on that subject, but another law of that same date, headed “Unlawful Detainer,” found in the Compilation on page 315, § 1625. This says that a suit of unlawful detainer shall lie against tenants, settlers, and other lessees of property, and against the administrators, agents, etc., or any other person who retains the material possession thereof or enjoys the same by sufferance, without paying any rental or other consideration. Then it goes on and describes the procedure. The procedure seems to be largely Spanish. At all events, the point is that the jurisdiction is limited to ■those who are in the possession or enjoying the property by sufferance without paying any rental. There is no question that in ejectment there may be a plea and proof of res judicata, if it has been decided by another court, whether state or Federal. The only question is as to what is the same case. The Supreme Court of Porto Rico has said that such “a special proceeding” of this nature of desahucio, which is the very subject discussed, is not res judicata in a regular suit. That is not peculiar to the Supreme Court of Porto Rico. It seems to be the rule pretty much everywhere. It was so held in Robinson v. Allison, 97 Ala. 596, 12 So. 382, 604. What is commonly called unlawful detainer was originally designed to recover possession of property which by force or fraud has been taken away from one. It does not involve title, but simply involves a matter of wrongful possession, that and no more. That issue is not the same as ejectment. In ejectment anything can come up that pertains to title. It is true possession may be an issue, but the title is the principal thing. The Supreme Court of Porto Rico in the case cited of Banco Territorial y Agricola v. Arvelo, 7 P. R. R. 551, was passing upon unlawful detainer as connected with, or as opposed to, a regular suit, apparently for debt. The opposing suit was in ejectment, but the principle seems to be the same. A proceeding for a special purpose, as to which it might be a question whether this court has jurisdiction, by itself is not an adjudication of the issue in ejectment. I do not see any way out of it. It looks to me as if this is so on authority, and it is so on principle.
+I have this difficulty in this particular case. The desahucio was based upon possession. This particular complaint sues for possession, and says that the defendant unlawfully entered upon tbe possession of tbe said parcels of real estate and deprived tbe plaintiff of tbe use and enjoyment thereof, and bas interfered witb tbe proper use and occupation thereof continuously, and, although possession bas been demanded, defendant has wrongfully and unlawfully refused to surrender tbe same, wherefore tbe plaintiff prays judgment for tbe possession of said land. So that, while this is in ejectment, it does seem to be for possession, and possession was tbe question in tbe desahucio also. That makes tbe matter a little more complicated, but it seems to me that tbe decision of tbe Supreme Court in the Banco Territorial Case applies, this being a regular proceeding and tbe desahucio being an irregular proceeding, as we might call it, a special proceeding. Such special proceeding in tbe lower court or municipal court will not be a bar to a suit in ejectment in tbe district court, whether of tbe United States or of Porto Bico.
+It is moreover in a suit which is practically a common-law suit, and tbe same effect would follow, that is to say, a judgment in unlawful detainer is not res judicata of a suit for tbe same property when tbe matter is brought up in ejectment. In Alabama (as in Robinson v. Allison, supra) it is to be remembered that ejectment may follow tbe old common-law forms; and even when it follows a code form, this code form is based upon common-law principles. Tbe objection to tbe document as showing res judicata must be sustained.
