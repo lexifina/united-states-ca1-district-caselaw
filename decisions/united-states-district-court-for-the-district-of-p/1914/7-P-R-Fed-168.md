@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Puerto Rico"
 docket: "897"
 decided: "1914-07-11"
-citations: ["7 P.R. Fed. 168", "7 P.R. Fed. 172"]
+citations: ["7 P.R. Fed. 168"]
 reporter: "pr-fed"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
