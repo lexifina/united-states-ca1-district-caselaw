@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Puerto Rico"
 docket: "940"
 decided: "1914-11-16"
-citations: ["7 P.R. Fed. 304", "7 P.R. Fed. 301"]
+citations: ["7 P.R. Fed. 304"]
 reporter: "pr-fed"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["WELCH & COMPANY v. CENTRAL SAN CRISTOBAL."]
 source_url: "https://static.case.law/pr-fed/7/cases/0304-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12113520
-cites_cases: ["1 Hopk. Ch. 114", "119 Fed. 397", "121 U. S. 74", "18 How. 105", "36 C. C. A. 155", "6 Pac. 748", "66 Cal. 630", "86 Fed. 390", "95 Fed. 497", "97 Fed. 11"]
+cites_cases: ["119 Fed. 397", "18 How. 105", "36 C. C. A. 155", "86 Fed. 390", "95 Fed. 497", "97 Fed. 11"]
 ---
 
 # Welch v. Central San Cristobal
