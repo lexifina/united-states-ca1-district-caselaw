@@ -1,0 +1,36 @@
+---
+court: "United States District Court for the District of Massachusetts"
+docket: "3705"
+decided: "1934-01-08"
+citations: ["5 F. Supp. 509"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DAWSON v. UNITED STATES."]
+source_url: "https://static.case.law/f-supp/5/cases/0509-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4127548
+cites_cases: ["44 F. (2d) 754", "47 F.(2d) 126", "64 F.(2d) 243", "64 F.(2d) 245", "64 F.(2d) 868", "65 F.(2d) 1011", "65 F.(2d) 649", "66 F. (2d) 455", "66 F.(2d) 912", "67 F.(2d) 150"]
+---
+
+# Dawson v. United States
+
+## Majority (BREWSTER, District Judge.)
+
+BREWSTER, District Judge.
+The petitioner seeks to recover upon a contract of war risk insurance in the amount of $19,000, for which he applied May 1,1918, and which was kept in force by the payment of premiums to July 31,1919. The petitioner was discharged from service on June 20, 1919, and his claim is that at the time of his discharge he was totally and permanently disabled within the purview of the contract.
+He entered the service in good physical condition, except that his doctor had suspected a predisposition to tuberculosis but had never been able to find any positive symptoms. When in Camp Devens he was inoculated for typhoid fever, and this resulted in three weeks’ hospitalization in the base hospital, where the patient ran a temperature hut was not seriously ill. He did develop then a cough which persisted until long after his discharge from the service. He recuperated, however, and returned to his duties, went overseas in July, 1918, was later transferred to the engineering corps, and was in France until the Armistice, some of the time in active combat, and was thereafter with the army of occupation until May, 1919.
+While in France he endured the hardships, exposures, and privations of those actively engaged in warfare. There is no record of any illness or hospitalization while in France and, so far as the records disclose, he was at all times able to perform his full duties as private and later as corporal. He participated, on September 11 and 12, 1918, in the St. Mihiel offenses.
+According to the testimony of the veteran, during his stay in France he did have pain in the baek intermittently and with varying degrees of severity just below the right shoulder blade, and he was more easily fatigued than he had been before his illness at Camp Devens. On June 20, 1919, he was discharged, and, according to the service records, he was discharged without disability. Upon his discharge he returned to his home in Pittsfield, Mass.
+A month later he resumed his pre-war occupation with the General Electric Company, his former employer, working as tester in the laboratory at the Pittsfield plant.
+He remained there until July, 1920, when he was transferred to the company’s plant in Lynn. On January 13, 1921, he was laid off on account of lack of work and because there was no available position to which he could be transferred. During all this period, from July 8, 1919, to January 13, 1921, the petitioner carried on his employment without loss of time or wages which could be attributed to any physical impairment. At the Pittsfield plant he earned over $1,200, and at the Lynn plant his wages averaged slightly over $28 per week. According to the employment record, his work was at all times satisfactory. His wages during his post-war employment were increased from 47 cents per hour to 60 cents per hour.
+In March, 1921, the petitioner suffered an acute attack of pleurisy and in May was removed to a hospital in Pittsfield, where he underwent an operation for empyema. It was then definitely ascertained that he had tuberculosis of the pleura, and a portion of two ribs was removed. He was in the hospital until December, 1921, and for three years thereafter he was totally incapacitated for any work. Since that time he has not entered upon any gainful employment with reasonable regularity.
+Taking as favorable a view of the evidence as is possible, the petitioner’s ease comes to this: Prior to his entry into the service his physician suspected that he might have a latent tubercular condition, and in 1921 it was found that he had chronic tuberculosis of the pleura. This condition was aggravated, first, by the inoculation and resultant fever, and again by the hardships and exposures of his service overseas. But at no time during the period of his service or of his occupation did his disease progress to the point where it interfered with a full and satisfactory performance of the duties assigned to him. The petitioner’s testimony that he received medical treatment while he was working at Pittsfield is not borne out by the affidavits of the physician who, according to the petitioner, attended him.
+There is no substantial evidence that his employment at comparatively light work was detrimental to his health or accelerated the progress of the disease to any great degree.
+If it be conceded that the petitioner had a disability which arose while the contract of insurance was in force, this disability was due to a progressive disease which, up to the time of the acute attack of pleurisy, had not advanced to such a stage as to render the petitioner unable to carry on with reasonable regularity a substantially gainful occupation. Botts v. United States (C. C. A.) 65 F.(2d) 1011.
+It is the petitioner’s contention that, since he was afflicted with a chronic tubercular condition during the period of his employment, the employment jeopardized his health or retarded his recovery and that, therefore, the record of employment should not operate to defeat recovery on the policy, citing United States v. Thomas (C. C. A.) 64 F.(2d) 245; United States v. Burleyson (C. C. A.) 64 F.(2d) 868.
+Ford v. United States (C. C. A.) 44 F. (2d) 754, and United States v. Godfrey (C. C. A.) 47 F.(2d) 126, in this circuit, also lend support to petitioner’s argument; but in Cranshaw v. United States (C. C. A.) 65 F.(2d) 649, 650, it is said that these cases “mark the extreme limit to which this or any other court has gone in a liberal interpretation of the statute in favor of war victims.”
+United States v. Alvord (C. C. A.) 66 F. (2d) 455, and United States v. Clement (C. C. A.) 67 F.(2d) 150, evince a noticeable swing toward a more narrow interpretation of war risk contracts, at least in those cases where there is involved the question of the legal effect of a record of employment. In the Alvord Case there was a finding that the employment was frequently interrupted because of illness, and there was medical evidence tending to show that the arduous labor undertaken by the veteran was detrimental to his health. Nevertheless, the court held that the employment was fatal to the petitioner’s claim of total disability.
+In the ease at bar, the facts are less favorable to the petitioner in these respects than were those before the court in the Alvord and Clement Cases. These cases rule and require a judgment for the defendant.
+See, also, United States v. Hammons (C. C. A.) 66 F.(2d) 912; United States v. Perkins (C. C. A.) 64 F.(2d) 243.
+I allow defendant’s motion for a judgment in its favor.
