@@ -1,0 +1,29 @@
+---
+court: "United States District Court for the District of Maine"
+docket: "Civ. No. 88-0267-P"
+decided: "1989-07-21"
+citations: ["718 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ronald FONTE, Plaintiff, v. John COLLINS, et al., Defendants."]
+source_url: "https://static.case.law/f-supp/718/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7395556
+cites_cases: ["109 S.Ct. 1865", "443 U.S. 137", "713 F.Supp. 511"]
+---
+
+# Fonte v. Collins
+
+## Majority (GENE CARTER, District Judge.)
+
+ORDER VACATING IN PART THE COURT’S ORDER GRANTING DEFENDANT’S MOTION FOR SUMMARY JUDGMENT
+GENE CARTER, District Judge.
+Plaintiff’s complaint in this matter stated four counts, one alleging a violation of 42 U.S.C. section 1983, and three claims based in state statutory and common law. Jurisdiction was based on federal question jurisdiction under 28 U.S.C. section 1331, with pendent jurisdiction over the state claims. Defendants moved for summary judgment on all counts.
+In its May 16, 1989 Order, 713 F.Supp. 511 (D.Me.1989), the Court granted Defendants’ motion for summary judgment on the section 1983 claim. In the resulting absence of a federal claim, the Court found that there was no federal question jurisdiction under 28 U.S.C. section 1331, and, in the exercise of its discretion, the Court remanded the action to the state court for further proceedings on the remaining state-law-based claims. Pursuant to Rule 59(e) of the Federal Rules of Civil Procedure, on May 30, 1989, Plaintiff moved this Court to alter its judgment. Plaintiff claims that the Court applied the wrong standard in evaluating its section 1983 claim for summary judgment purposes.
+In support of its motion to alter the judgment, Plaintiff draws the Court’s attention to a recent case in the United States Supreme Court, Graham v. Connor, 490 U.S. -, 109 S.Ct. 1865, 104 L.Ed.2d 443 (1989), handed down on the day prior to the Court’s issuance of its May 16, 1989 Order. Graham considered a section 1983 action brought against Charlotte, North Carolina police officers who arrested the plaintiff, Graham, on the basis of what they observed to be suspicious behavior. In reality, the behavior of Graham, a diabetic, was attributable to an insulin reaction. The officers handcuffed Graham, and ignored pleas to permit Graham to show the decal in his wallet identifying him as a diabetic or to drink some juice to counteract the insulin reaction. At some point during his encounter with the police, Graham sustained a broken foot, cuts on his wrists, a bruised forehead, and an injured shoulder. Graham sued under section 1983, claiming that excessive force was used in making an investigatory stop.
+Graham states that “ ‘[t]he first inquiry in any § 1983 suit’ is ‘to isolate the precise constitutional violation with which [the defendant] is charged.’ ” Graham, 490 U.S. at -, 109 S.Ct. at 1870, 104 L.Ed.2d at 454, citing Baker v. McCollan, 443 U.S. 137, 140, 99 S.Ct. 2689, 2692, 61 L.Ed.2d 433 (1979). Because Graham’s injuries arose out of an investigatory stop, the Supreme Court held that a Fourth Amendment analysis applied. Thus, where, as here, a section 1983 claim arises in the context of an arrest, it is properly characterized as one invoking the protections of the Fourth Amendment. Graham, 490 U.S. at -, 109 S.Ct. at 1870, 104 L.Ed.2d at 454.
+In light of the Supreme Court’s opinion in Graham, the Court finds it was in error in granting Defendants’ motion for summary judgment on the section 1983 claim on the basis of a substantive due process analysis. As the Supreme Court stated:
+Today we make explicit ... that all claims that law enforcement officers have used excessive force—deadly or not—in the course of an arrest, investigatory stop, or other “seizure” of a free citizen should be analyzed under the Fourth Amendment and its “reasonableness” standard, rather than under a “substantive due process” approach. Because the Fourth Amendment provides an explicit textual source of constitutional protection against this sort of physically intrusive governmental conduct, that Amendment, not the more generalized notion of “substantive due process,” must be the guide for analyzing these claims.
+490 U.S. at -, 109 S.Ct. at 1871, 104 L.Ed.2d at 454-55 (emphasis in original). Graham was decided on the basis of excessive force applied while effecting a questionable arrest, giving rise to a constitutional claim under section 1983. Here, Plaintiff’s section 1983 claim was based solely on an arrest he claims was in violation of his constitutional rights. The Supreme Court having determined that a claim combining an arrest with excessive force is to be decided under the Fourth Amendment “reasonableness” standard, it appears that Plaintiff’s claim, alleging an unconstitutional arrest without any claim of use of excessive force, should be scrutinized under the same standard and not under the heightened, substantive due process standard applied by the Court. Id. 490 U.S. at -, 109 S.Ct. at 1871, 104 L.Ed.2d at 454-55.
+Accordingly, the Court hereby VACATES that portion of its Memorandum of Decision and Order, dated May 16, 1989, beginning with the last paragraph on page 9, that applies the substantive due process standard to Plaintiff’s section 1983 claim and grants summary judgment to Defendant on this issue. The Court will reconsider Defendants’ motion for summary judgment on the section 1983 claim, in light of the Fourth Amendment “objective reasonableness” standard made applicable by Graham. The Court ORDERS the parties to rebrief the motion for summary judgment on the section 1983 claim, and will issue a scheduling order governing this purpose.
