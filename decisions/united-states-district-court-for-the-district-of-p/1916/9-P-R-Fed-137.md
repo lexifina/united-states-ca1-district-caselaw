@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Puerto Rico"
 docket: "1139"
 decided: "1916-08-05"
-citations: ["9 P.R. Fed. 137", "9 P.R. Fed. 136"]
+citations: ["9 P.R. Fed. 137"]
 reporter: "pr-fed"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
