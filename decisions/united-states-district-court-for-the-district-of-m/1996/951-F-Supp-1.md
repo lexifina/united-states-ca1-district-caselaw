@@ -1,0 +1,32 @@
+---
+court: "United States District Court for the District of Maine"
+docket: "Civil No. 95-290-P-H"
+decided: "1996-12-02"
+citations: ["951 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JEWISH HOSPITAL OF ST. LOUIS, Plaintiff, v. IDEXX LABORATORIES, Defendant."]
+source_url: "https://static.case.law/f-supp/951/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7744951
+cites_cases: ["116 S.Ct. 304", "133 L.Ed.2d 209", "35 U.S.C. § 151", "35 U.S.C. § 41", "37 C.F.R. § 1.28", "55 F.3d 606", "901 F.Supp. 1235"]
+cites_law: ["united-states/federal/usc/title-35/1.md", "united-states/federal/usc/title-35/151.md", "united-states/federal/usc/title-35/2.md", "united-states/federal/usc/title-35/41.md"]
+---
+
+# Jewish Hospital of St. Louis v. Idexx Laboratories
+
+## Majority (HORNBY, Chief Judge.)
+
+ORDER ON MOTIONS FOR SUMMARY JUDGMENT
+HORNBY, Chief Judge.
+Washington University, Jewish Hospital’s predecessor in title to the ‘275 patent, has consistently claimed and been awarded the benefit of “small entity status,” resulting in a fifty per cent reduction in the fees paid to the Patent and Trademark Office (“PTO”). In fact, however, Mallinckrodt, Inc. was the licensee under the patent and thereby disqualified the patent owner from obtaining small entity status. As a result, IDEXX argues, the patent owner never paid the proper fees for obtaining and maintaining the ‘275 patent, and the patent therefore lapsed. IDEXX argues that Jewish Hospital cannot meet the standard for reinstating the patent and, in any event, that no damages can be recovered for infringing activity in the meantime.
+The patent statute directs the PTO that when a patent application is allowed, “a written notice of allowance of the application shall be given or mailed to the applicant. The notice shall specify a sum, constituting the issue fee or a portion thereof, which shall be paid within three months thereafter. Upon payment of this sum the patent shall issue....” 35 U.S.C. § 151. Here, the patent holder paid the sum specified by the PTO and the patent did issue. The statute also establishes certain maintenance fees, 35 U.S.C. § 41(b), and specifies that “[u]nless payment of the applicable maintenance fee is received in the [PTO] on or before the date the fee is due or within a grace period of six months thereafter, the patent will expire as of the end of such grace period.” Id. Here, the patent holder in a timely fashion paid the applicable fees for small entity status.
+IDEXX’s argument is that because the small entity discount was improperly claimed, all the fees paid have been inadequate and therefore the patent lapsed. I find no intimation in the statutory language that such a result follows. Instead, the statute addresses itself to amounts due and dates due, not errors in status claims. There is no policy reason to read into the law such a drastic sanction for the improper claim of small entity status. This is not a case where the patent has been allowed and the patent holder has refused or declined to pay the fee of which it was notified, thereby suggesting a presumption of abandonment. Neither is it a situation where the periodic maintenance fees have been omitted when due, likewise justifying a presumption of abandonment. Instead, all payments have been made, although at a fifty per cent rate because of the improper claim of small entity status. There is no suggestion anywhere in the statute, however, that this should result in a forfeiture, either permanent or temporary. Indeed, the PTO has adopted specific procedures for correcting any error in claiming small entity status. See 37 C.F.R. § 1.28(c). These procedures do not contemplate a lapse of the patent, but rather permit correction of the error if the status was originally established in good faith. Id. Jewish Hospital has followed those PTO procedures here, and the PTO has accepted the correcting payment by letter of July 8, 1996. This clearly is not arbitrary, capricious or an abuse of discretion but, to the contrary, is well within the discretion of the PTO in administering its collection of fees. The regulation does not contradict the purpose of the statute, but instead is in accordance with the statute. See Ray v. Lehman, 55 F.3d 606, 608 (Fed. Cir.), cert. denied, — U.S. —, 116 S.Ct. 304, 133 L.Ed.2d 209 (1995) (stating that the statute gives the PTO Commissioner discretion to accept the correcting payments).
+Finally, I observe that IDEXX has withdrawn its attempts to have the PTO itself overturn acceptance of the correction. There is no reason, therefore, to consider whether this matter should be reviewed in a different district. Instead, the patent infringement action is pending here, both parties have asked me to rule on the issue and I have done so.
+I do not address the proper interpretation of intervening rights under 35 U.S.C. § 41(c)(2), upon which IDEXX relies. That process deals with failure to pay maintenance fees, a situation that is not applicable here.
+IDEXX’s motion for summary judgment on this issue (Docket Item 90) is DENIED. Jewish Hospital’s motion for summary judgment on this issue (Docket Item 103) is GRANTED.
+SO ORDERED.
+. 35 U.S.C. § 41(h)(1) provides a fifty per cent reduction on all fees for a patent holder that qualifies as a "small business concern” or "independent inventor or nonprofit organization as defined in regulations issued by the Commissioner of Patents and Trademarks.”
+. If small entity status is claimed fraudulently or with intent to deceive, that is treated by the PTO as a fraud practiced or attempted fraud on the PTO. 37 C.F.R. § 1.28(d). I deal with that issue in a separate order.
+. In Haden Schweitzer Corp. v. Myr Indus., Inc., 901 F.Supp. 1235 (E.D.Mich.1995), a case involving an improper claim of small entity status, the court dealt with the intervening rights question along the lines of IDEXX’s analysis. There, however, the parties had focused their entire argument on that issue and, in particular, on whether an infringer could use the intervening rights defense if it had not specifically relied on the patent holder's failure to pay proper fees. The court never addressed the issue as it is presented here. Furthermore, soon after the Haden Schweitzer decision, the PTO confirmed its approach to small entity errors in the Manual of Patent Examining Procedure, § 509.03, at 500-523 (6th ed., rev. 1, Sept. 1995).
