@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Puerto Rico"
 docket: "897"
 decided: "1913-07-01"
-citations: ["6 P.R. Fed. 258", "6 P.R. Fed. 252"]
+citations: ["6 P.R. Fed. 258"]
 reporter: "pr-fed"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["BERWIND-WHITE COAL MINING COMPANY v. BORINQUEN SUGAR COMPANY."]
 source_url: "https://static.case.law/pr-fed/6/cases/0258-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6066221
-cites_cases: ["164 U. S. 311", "199 U. S. 353", "206 U. S. 369", "24 L.R.A. (N.S.) 879", "27 Sup. Ct. Rep. 724", "97 U. S. 146"]
+cites_cases: ["164 U. S. 311", "199 U. S. 353", "206 U. S. 369", "27 Sup. Ct. Rep. 724", "97 U. S. 146"]
 ---
 
 # Berwind-White Coal Mining Co. v. Borinquen Sugar Co.
