@@ -1,7 +1,8 @@
 ---
 court: "United States District Court for the District of Massachusetts"
 decided: "1858-04"
-citations: ["22 F. Cas. 1", "1 Spr. 407", "22 F. Cas. 6", "1 Spr. 418"]
+decided_precision: "month"
+citations: ["22 F. Cas. 1", "1 Spr. 407"]
 reporter: "f-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
