@@ -1,0 +1,26 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "399"
+decided: "1907-10-12"
+citations: ["3 P.R. Fed. 190"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JUSTO MARIA LACOURT, Plff., v. C. SABATER ET AL., Dfts."]
+source_url: "https://static.case.law/pr-fed/3/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6066011
+---
+
+# Lacourt v. Sabater
+
+## Majority (Rodey, Judge,)
+
+Rodey, Judge,
+delivered the following opinion:
+This cause is submitted to the court on the plea to the jurisdiction, filed by certain of the respondents. A brief has been filed with the plea, hut counsel for complainant has not replied thereto.
+The alleged cause of action is a very peculiar one, and it is. extremely doubtful whether the action could be maintained on its merits in this court; but, of course, as to this, no issue is; raised requiring us to express any binding opinion. As we read the amended bill, is in effect asks the court to go behind a solemn notarial acknowledgment of a debt by the complainant in favor of some of the respondents, amounting to upwards of $42,000,. and go back some twenty years into an extensive accounting: between the parties, involving large mercantile transactions that, appear to have taken place through a series of years; and it is alleged that, when this is done, the court will ascertain that complainant was not indebted to the respondents at all at the time he gave them the mortgage referred to in the bill in the year 1900, but, on the contrary, that they were indebted to him in about the sum of $50,000, and that therefore the mortgage-should be canceled and a judgment or decree rendered in favor of complainant for any balance that may be found due him. Payments since the date of the making of the mortgage in the-year 1900 have presumably been made, and complainant seems to have ascertained for the first time that he had been defrauded, only after the lapse of about a quarter of a century, — at least,, as to some of the debt.
+The original bill was filed, and amended four days later; but,, on August 27, 1906, a completely rewritten amended bill was; filed. On August 2, 1906, one of the respondents, Carlos Sabater (y Garcia) filed a plea to the jurisdiction on the ground, that he was a Porto Pican, and not a Spaniard, as alleged in the bill, and that therefore this court had no jurisdiction of the-cause or as to him. Complainant appears to have confessed this-plea, because, in the amended bill, filed twenty-five days later,, his name is omitted as a respondent, and the names of certain, others added. On November 12, 1906, respondent C. Sabater & Company, Ltd., filed a plea in which they set up that the respondents, the limited partnership of Sabater & Company, Ltd.,; in liquidation, is composed not only of José Sabater y Oliver and Eduardo Casanova, residents of Porto Rico and Spanish subjects, as alleged in the bill, but also that one Carlos Sabater y Garcia, the party before referred to and omitted, who is a citizen of Porto Rico, is also a member of the said respondent limited partnership, and that the said Carlos Sabater y Garcia was also a member of all the different mercantile partnerships that, as alleged in the bill, culminated in the partnership known as Sabater & Company, Ltd.; and in proof of this statement they file an exhibit (Á) with the plea, showing that said Carlos Sabater y Garcia was made a member of said partnership by its articles of partnership before a notary on the 28th day of April, 1897, and that therefore he is a necessary party to the suit.
+On the same day, November 12, 1906, the respondent Santiago Saens y Martinez, who was made a party to the bill by the first amendment of July 20th, and continued as a party respondent in the rewritten amended bill of August 27, 1906, also filed a plea to the jurisdiction of the court, alleging that he is a citizen of Porto Rico, and that he was born at Aguadilla, in said island, on the 8th of-March, 1851, and was a resident in Porto Rico at the time of American occupation, and that he is now only temporarily residing in Spain, and that he has never been registered as a Spanish subject in the consulate of that nation in Porto Rico. In proof of these statements he files a certificate from the consular agent of Spain for this island, and also a certificate of the parish priest of San Carlos Borromeo of Aguadilla, Porto Rico, certifying to his birth and baptism at said place as aforesaid.
+In the light of these facts, which we think for present purposes are thus sufficiently proved, there appearing to be Porto Ricans both as parties complainant and respondent, we are unable to see bow, under the ruling of this court in the Yallecillo t. Bertram Case, we have any jurisdiction. We confess that the failure of counsel for complainant to file, any reply brief in opposition to these pleas leaves us to conjecture as to what position he takes, or how he can claim that jurisdiction exists.
+The pleas will therefore be sustained, and unless the bill is, within five days from this date, rightfully and legally amended, if it can be, so as to confer jurisdiction on the court, it will stand dismissed with costs against the complainant.
