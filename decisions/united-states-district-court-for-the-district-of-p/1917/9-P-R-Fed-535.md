@@ -1,0 +1,26 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "2"
+decided: "1917-04-04"
+citations: ["9 P.R. Fed. 535"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RE NATURALIZATION OF ANTONIO COSTA SEMIDEY."]
+source_url: "https://static.case.law/pr-fed/9/cases/0535-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12113685
+---
+
+# In re Naturalization of Costa Semidey
+
+## Majority (HaMiltoN, Judge,)
+
+HaMiltoN, Judge,
+delivered tbe following opinion:
+The act approved March 2, 1917, provides in § 41 that this “district court shall have jurisdiction for the naturalization of aliens, . . . and for this purpose residence in Porto Eico shall be counted in the same manner as residence elsewhere in the United States.” [39 Stat. at L. —, chap. 145, Comp. Stat. 1916, § 3803 qq.j This confers jurisdiction as to the general subject of .naturalization. There occurs also in § 5 relative to making American citizens ‘of those who were theretofore citizens of Porto Eico a special provision “that any person ivho is born in Porto Eico of an alien parent and is permanently residing in that island may, if of full age, within six months of the taking eiTcct of this act, or if a minor, upon reaching his majority, or within one year thereafter, make a sworn declaration of allegiance to the United States before the United States district court for Porto Eico, setting forth therein all the facts connected with his or her birth and residence in Porto Eico and accompanying due proof thereof, and from and after the making of such declaration shall be considered to be a citizen of the United States.” The application at bar is made under the foregoing provision of § 5.
+Upon tbe informal application of another party this court refused to consider a petition under this section which did not state that the party in question was not an anarchist, not a polygamist, and the like, as required under the petition usual in general naturalization cases. The reason for this was and is that there seems to be no more ground for admitting, for instance, a polygamist son of an alien than for admitting the polygamist alien father himself. The object in both cases is to admit persons to be citizens of the United States, and the two laws must be construed in pari materia, and proceedings in both cases should follow substantially the same course. In other words, there must be two witnesses to the petition, and the witnesses on the trial of the petition must testify to substantially the same facts. A difference from the necessity of the case, however, exists in the return day of the petition, that is to say, in the length of time between the petition and the hearing. Section 5 in question is limited in its operation to six months from the passage of the act, that is to say, to Séptember 2, 1917, and to require ninety days’ notice of the application might, after two months from now, be practically nullifying the act. Moreover, this court may be in vacation during a part of that time, and it would seem that a shorter return day should be allowed under § 5.
+The provisions of § 5, however, materially lessen the difficulty of proof required by the General Naturalization Law. It would seem that four things must be proved, and these four supersede the corresponding more stringent provision in the General Naturalization Law, and application is made under § 5. These four things are: (1) That the applicant was born in Porto Eico; (2) that a parent, who generally would be the father, was an alien at that time; (3) that the applicant is at the time of bis application permanently residing in Porto Pico; and (4) that the applicant is of full age at the time of his application, with a certain extension of time as to minors. These provisions are self-explanatory, with the exception of the third. There is no necessity for proving that the applicant has continuously resided in Porto Pico since his birth. Instead of lessening the burdens of naturalization, such a construction would materially increase them; for it would substitute for five years’ residence in the United States at least twenty-one years’ residence in Porto Pico. It often happens that a person was bora in Porto Rico of an alien parent and lived for awhile abroad. It is conceivable that, if he return to Porto Pico the day before his application, bought a home, went into business, and otherwise gave evidence of an intention that his residence will be permanent, in such case he would be eligible for citizenship by taking the oath of allegiance under § 5. Of course this is an extreme case, but it illustrates that no special length of residence is necessary under § 5. The requirement is permanent residence at the time of the application, not permanent residence at the time of birth or for any particular period since that event.
+The printed blank for application for naturalization may be used by applicants under § 5, the corresponding parts being changed to meet the provisions of § 5, as above explained.
+The petition of Semidey conforms to the above principles, and he is admitted to take the oath of allegiance.
+It is so ordered.
