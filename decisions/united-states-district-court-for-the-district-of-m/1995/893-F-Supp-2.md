@@ -1,0 +1,32 @@
+---
+court: "United States District Court for the District of Massachusetts"
+docket: "Civ. A. No. 93-11921-WGY"
+decided: "1995-07-14"
+citations: ["893 F. Supp. 2"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Brendan M. McGUINNESS, Plaintiff, v. Larry E. DUBOIS, Commissioner of the Massachusetts Department of Corrections; Michael T. Maloney, Deputy Commissioner; Jeffrey Sherwin, Special Hearing Officer; Ronald Bissonnette, Sergeant at M.C.I. Cedar Junction at Walpole; all both in their personal capacities as individuals and also in their official capacities, Defendants."]
+source_url: "https://static.case.law/f-supp/893/cases/0002-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7823654
+cites_cases: ["114 S.Ct. 1970", "115 S.Ct. 2293", "12 F.3d 1444", "501 U.S. 294", "600 F.2d 189", "626 F.2d 345", "891 F.Supp. 25"]
+---
+
+# McGuinness v. Dubois
+
+## Majority (YOUNG, District Judge.)
+
+MEMORANDUM AND ORDER
+YOUNG, District Judge.
+Following this Court’s decision in McGuinness v. Dubois, 891 F.Supp. 25 (D.Mass. 1995), familiarity with which is presumed, there remained for trial only Counts IV and V of McGuinness’ complaint, as well as the counterclaim against him by Ronald Bissonnette alleging assault. At a final pre-trial conference held on June 26, 1995, in an attempt to narrow the issues pursuant to Fed. R.Civ.P. 16, McGuinness candidly conceded that the thrust of Count IV was subsumed in the opinion already issued and, as to Count V, he jettisoned any claim that his DDU confinement has presently caused him mental injury. This leaves his claim that the denial of out-of-eell exercise violated his Eighth Amendment rights. The defendants argued that, with the claim so limited, they were entitled to qualified immunity as matter of law. Upon consideration of the arguments presented, this Court agrees.
+Inmates residing in the DDU are ordinarily allowed exercise periods of one hour per day, five days a week. See McGuinness, 891 F.Supp. at 27-28. McGuinness claims that beginning in October of 1993, he received a succession of disciplinary convictions resulting in the loss of those exercise periods— “yard time” — for a total of approximately one year. The sanction of lost yard time was imposed in two ways: incidental to fifteen-day isolation sanctions and as separately imposed punishment for misconduct while in DDU. McGuinness states that during yard exercise, he could jog or do push-ups, but was limited to sit-ups and push-ups when not allowed into the yard. From this alleged infliction of cruel and unusual punishment, McGuinness claims to have suffered muscle pain, cramps, spasms, and, combined with the unavailability of “seconds” at mealtime, a weight loss of twenty to twenty-five pounds.
+While exercise is an “identifiable human need” the deprivation of which may establish an Eighth Amendment violation, see Wilson v. Seiter, 501 U.S. 294, 304, 111 S.Ct. 2321, 2327, 115 L.Ed.2d 271 (1991) (dicta); LeMaire v. Maass, 12 F.3d 1444, 1457-58 (9th Cir.1993), the state of the law in this area does not clearly establish that the conditions of McGuinness’ confinement violated the Constitution. The defendants are therefore entitled to qualified immunity because McGuinness admittedly cannot demonstrate that they acted with subjectively deliberate indifference to a known right. See Farmer v. Brennan, — U.S. -, -, 114 S.Ct. 1970, 1977, 128 L.Ed.2d 811 (1994); Bechard v. DuBois, No. 94-0236, slip op. at 5-8 (Mass.Super.Ct. Apr. 13, 1995) (Butler, J.); Bolton v. Rakiey, No. 91-2029, slip op. at 3-8 (Mass.Super.Ct. Dec. 6, 1991) (Dortch, J.); see also Wilson, 501 U.S. at 304, 111 S.Ct. at 2327 (comparing Spain v. Procunier, 600 F.2d 189, 199 [9th Cir.1979] [outdoor exercise required when prisoners otherwise confined in small cells almost 24 hours per day for more than four years] with Clay v. Miller, 626 F.2d 345, 347 [4th Cir.1980] [outdoor exercise not required when prisoners otherwise had access to dayroom 18 hours per day]); LeMaire, 12 F.3d at 1458.
+Referring to another problem inmate, the Ninth Circuit has stated:
+[The prisoner] is the master of his own fate. As long as he engages in violent and disruptive behavior, prison officials are authorized and indeed required to take appropriate measures to maintain prison order and discipline and protect staff and other prisoners from such violent inmates.
+LeMaire, 12 F.3d at 1458. The same applies to McGuinness. Prior to the recent policy change, it took two layers of trouble for an inmate temporarily to lose exercise privileges: first, he had to be removed from the general population to DDU, and then he had to commit still further misconduct warranting additional sanctions. There is no violation of the Constitution in limiting an inmate with such a proclivity for misbehavior to situps and push-ups within his cell; he has no right to jog in the yard as well. See Sandin v. Conner, — U.S. -, -, 115 S.Ct. 2293, 2299, 132 L.Ed.2d 418 (Sup.Ct.1995).
+The Court therefore need not reach the question of whether McGuinness’ alleged injuries are sufficiently severe to support an Eighth Amendment claim. See Farmer, — U.S. at -, 114 S.Ct. at 1977 (deprivation must objectively be “sufficiently serious”); Wilson, 501 U.S. at 298, 111 S.Ct. at 2324 (same).
+For the reasons set forth above, judgment must be entered on behalf of the defendants on all remaining claims.
+. McGuinness concedes that the Department ceased imposing yard deprivation as an disciplinary sanction in March or April of 1995. The Court draws no inference from this decision.
+. McGuinness’ reliance on Barrows v. Rakiey, No. 90-1731, slip op. (Mass.Super Ct. July 19, 1991) (Zobel, J.) is unavailing. That case concerned the right of inmates in isolation to out-of-cell exercise under then-existing regulations of the Department of Public Health; it is not premised on, and does not mention, the Eighth Amendment. Those regulations have been amended since Barrows to allow for the suspension of exercise privileges for "security or safety considerations.” The current viability of a § 1983 claim under the regulations is extremely dubious in light of the fact that the regulations, by their terms, are enforceable only by the Attorney General and not by private parties. See 105 C.M.R. § 451.212; Giacalone v. DuBois, No. 94-11775-EJH, slip op. at 2 (D.Mass. Dec. 13, 1994) (Harrington, J.).
+. Bissonnette’s counterclaim is voluntarily dismissed.
