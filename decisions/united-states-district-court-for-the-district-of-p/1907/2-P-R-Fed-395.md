@@ -1,0 +1,29 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "424"
+decided: "1907-03-08"
+citations: ["2 P.R. Fed. 395"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NATIVIDAD LOPEZ Y ROS v. THE NEW YORK & PORTO RICO STEAMSHIP COMPANY."]
+source_url: "https://static.case.law/pr-fed/2/cases/0395-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6066093
+cites_cases: ["102 U. S. 118", "11 Wall. 185", "14 Sup. Ct. Rep. 1019", "154 U. S. 276", "16 Wall. 522", "166 U. S. 280", "167 U. S. 606", "177 U. S. 638", "4 Wall. 555"]
+---
+
+# Lopez y Ros v. New York & Porto Rico Steamship Co.
+
+## Majority (Eohey, Judge,)
+
+Eohey, Judge,
+delivered tbe following opinion:
+This suit is brought in this court as a district court of the United States, and not in it as a court of admiralty. The plaintiffs, Natividad Lopez y Eos and Zenon Lopez y Eos, are small children, two years and less than one year of age, respectively. They sue by their mother, Eamona Eos, and are alleged to be citizens of, and residents in, Porto Eico. The defendant is alleged to be a New York corporation, engaged in running steamboats and carrying on a freight and passenger business between Porto Eico, New York, and other places, but having an office in Porto Eico and an agent therein, upon whom service of process can be made.
+The action is one for damages for the. death of Eugenia Lopez, the father of the children, which is said to have occurred on the 19th day of September, 1906, in the port of Fajardo, in said island, and which occurred, as is alleged, through the negligence of the defendant, by the breaking of a chain used in the tackle by which a long stick of piling was being unloaded from tbe defe*udant’s steamboat “Porto Pico,” in said port or bay, into a lighter, and which said stick of timber fell upon and killed the said Lopez. It is understood that the deceased was not in the employ of the defendant, but was working for a lighter company that was either unloading or receiving the freight from the ship. The occurrence which resulted in the death took place well out in the bay, wholly disconnected from shore. It is not in any sense a proceeding in rem. Direct service on the defendant has been had and a straight judgment is asked without any reference to the ship.
+Counsel for the defendant first answered and then filed an amendment to the answer, which is a suggestion that amounts to a motion to dismiss for want of jurisdiction, on the ground that the suit should be brought in admiralty, even though it is in no sense a proceeding in rem, and in support of this motion, cites us to the following cases: The Hine v. Trevor (The Ad. Hine v. Trevor) 4 Wall. 555, 18 L. ed. 451; Moran v. Sturges, 154 U. S. 276, 38 L. ed. 987, 14 Sup. Ct. Rep. 1019; Panama R. Co. v. Napier Shipping Co. 166 U. S. 280, 41 L. ed. 1004, 17 Sup. Ct. Rep. 572, and several others.
+Against the motion, counsel for plaintiff cites us, among other cases, to American S. B. Co. v. Chase, 16 Wall. 522, 21 L. ed. 369; The Glide, 167 U. S. 606, 42 L. ed. 296, 17 Sup. Ct. Rep. 930; Knapp, S. & Co. Co. v. McCaffrey, 177 U. S. 638, 44 L. ed. 921, 20 Sup. Ct. Rep. 824; and 4 Fed. Stat. Anno. 222.
+We have examined not only the authorities to which we are thus referred, but many others to which they refer, and some of the arguments and citations are quite exhaustive. We are, in fact, surprised to find that a question as important as this does not seem to be clearly settled by the Supreme Court of the United States, or to have any very appreciable preponderance of authority on either side, either at circuit or in the state-courts. Even in the Knapp Case, supra, which is the latest voice of the Supreme Court on slightly analogous facts, the rule laid down in the closing paragraph is not stated so as to-aid us very much.
+It can be gathered, though, from all the authorities, that,, whenever the proceeding is one strictly in rem, it is exclusively of admiralty jurisdiction, even though in such a case the owner of the ship should be cited personally. But we also gather from the authorities that where, as in this case, the suit has no necessary connection with admiralty jurisdiction, as generally understood, and does not seek in any manner to subject the steamboat or the vessel to the payment of the judgment, and the suit is not aided by any attachment, it is within the exception in § 553 of the Kevised Statutes (U. S. Comp. Stat. 1901, p. 449), and plaintiffs have a right to proceed on the law side of this court, just as would be the case where seamen are suing for their wages.
+While the facts were somewhat different, Mr. Justice Brown, as recent as 1899, in the Knapp Case, supra, cites with approval the doctrine laid down in Leon v. Galceran, 11 Wall. 185, 20 L. ed. 14, and in American S. B. Co. v. Chase, supra, and also states that in Schoonmaker v. Gilmore, 102 U. S. 118, 26 L. ed. 95, it was held that courts of admiralty had no-exclusive jurisdiction of suits in personam growing out of collisions. The Galceran Case was a suit in a state court of Louisiana to recover seamen’s wages, and the jurisdiction was sustained, even though the suit was aided by an attachment on a schooner under a statute there. In the Chase Case, the jurisdiction of the state court was also sustained under a statute of Rhode Island, the suit being one by personal representatives for the negligent killing of the deceased by running over his sailboat with one of their steamboats in a bay of that state.
+Therefore, from the examination we have made of the authorities, we feel that both reason and principle, as well as the weight of authority, are with plaintiffs, and the motion to dismiss will be overruled, and it is so ordered.
