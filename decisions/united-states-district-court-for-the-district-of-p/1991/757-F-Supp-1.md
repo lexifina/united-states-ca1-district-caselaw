@@ -1,0 +1,33 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "Civ. Nos. 90-2500 (JAF), 90-2501 (JAF); Crim. Nos. 85-507 (JAF), 86-544 (JAF)"
+decided: "1991-02-20"
+citations: ["757 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Claudio PEREZ-CALO, Petitioner, v. UNITED STATES of America, Respondent."]
+source_url: "https://static.case.law/f-supp/757/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4099718
+cites_cases: ["107 L.Ed.2d 1045", "110 S.Ct. 1140", "18 U.S.C. § 751", "18 U.S.C. §§ 2113", "252 F.2d 398", "28 U.S.C. § 2255", "444 U.S. 394", "446 F.2d 1317", "485 F.2d 1077", "879 F.2d 975"]
+---
+
+# Perez-Calo v. United States
+
+## Majority (FUSTE, District Judge.)
+
+OPINION AND ORDER
+FUSTE, District Judge.
+Petitioner Claudio Pérez-Calo pled guilty to two violations of 18 U.S.C. § 751(a) and was sentenced to consecutive five-year terms of imprisonment. Petitioner is now before the court pursuant to 28 U.S.C. § 2255 arguing that the court was without jurisdiction to impose the above sentence because he had completed his prior federal sentence and was therefore no longer under federal custody. For the reasons stated below, we dismiss plaintiffs petitions in Civil Nos. 90-2500 and 90-2501.
+I. Discussion
+In July 1977, petitioner pled guilty to a one-count indictment charging him with bank robbery and use of a dangerous weapon in the commission of a robbery in violation of 18 U.S.C. §§ 2113(a) and (d). On August 19, 1977, this court (Torruella, J.) sentenced petitioner to a ten-year term of imprisonment. Also, at the time there were various criminal charges pending against petitioner in the local courts. Petitioner was committed to the Bayamón Regional Facility and, in May 1978, was transferred to the Federal Correctional Institution in Tallahassee, Florida.
+The next years saw the petitioner in and out of various federal and state penal institutions. Of importance to us here is a probation document signed by petitioner on January 27, 1981, whereby he acknowledged that he would be on federal parole until April 28, 1987 and, if freed by the Puerto Rico authorities on state charges prior to this date, would have to report to federal probation authorities. After being returned to local prison, he was convicted for violations of both local law and the terms of his federal probation by possessing a controlled substance. Federal parole was revoked and petitioner was returned to federal prison. On July 11, 1983, he was again released from federal prison and again incarcerated by Puerto Rico authorities. Release from local prison came on February 14, 1984. On September 25, 1984, petitioner was once more committed to the federal prison in Lewisburg and in October his parole was again revoked. At this time it was computed that his remaining parole violation term was five years, nine months, and twenty-four days, with a statutory release date of June 21, 1988. The U.S. Parole Commission granted him a parole effective date of October 26, 1985.
+In a letter dated June 18, 1985, the program director of Hogar Crea Halfway House (“Hogar Crea”), a substance abuse treatment facility in Puerto Rico, agreed to accept petitioner into their program as of July 26, 1985. It was from Hogar Crea that petitioner escaped in November 1985, giving rise to the first of the two current criminal convictions. The second indictment arose from an escape by petitioner from Stop 8 Municipal Jail in San Juan, Puerto Rico on October 15, 1986, after he was committed there in connection with Criminal Case No. 85-507. Our above discussion should dispel any doubt that petitioner was always in the custody of the Attorney General or his designated representative from 1977 to the date of his first escape.
+The elements which must be proven for conviction under section 751(a) are: (1) that defendant had been in the custody of the Attorney General, (2) as the result of a conviction, and (3) that he had escaped from custody. United States v. Bailey, 444 U.S. 394, 407, 100 S.Ct. 624, 633, 62 L.Ed.2d 575 (1980). Petitioner’s argument that he had “finished” his federal sentence goes to the first element of section 751(a), the custody of the Attorney General. If, in fact, petitioner had finished his sentence, thus terminating the custody of the Attorney General, then escaping from the Hogar Crea Halfway House would have represented a personal decision to terminate a substance abuse treatment program.
+However, our recitation of the facts clearly leads us to a different conclusion. Petitioner was placed at Hogar Crea by the Federal Bureau of Prisons in order to receive substance abuse treatment. Petitioner was not at liberty to leave the facility. For purposes of the statute, a halfway house has been found to be one type of placement where the Attorney General may assign certain types of offenders. See United States v. Taylor, 485 F.2d 1077, 1078 (D.C.Cir.1973); United States v. Vaughn, 446 F.2d 1317, 1318 (D.C.Cir. 1971). Consequently, placement at Hogar Crea was an authorized placement of the Attorney General. As to petitioner’s argument that he had “finished” his sentence, even, arguendo, using the earliest applicable date, April 1987, petitioner’s first escape was well before the end of his statutory term. It is clear that when petitioner escaped the first time, he was in the custody of the Attorney General. Since petitioner’s second escape was during the penden-cy of court proceedings, there is no question as to the issue of custody. Therefore, with respect to both of petitioner’s escapes, his argument must fail.
+II. Conclusion
+Pursuant to Rule 4(b) of the Rules Governing Proceedings in United States District Courts under 28 U.S.C. § 2255, we find no need to grant an evidentiary hearing because petitioner’s claims are conclusively refuted or otherwise resolved by documents of record. See Panzardi-Alvarez v. United States, 879 F.2d 975, 985 n. 8 (1st Cir.1989), cert. denied, — U.S. —, 110 S.Ct. 1140, 107 L.Ed.2d 1045 (1990), and cases cited therein.
+The petitions in both cases are therefore DENIED.
+IT IS SO ORDERED.
+. We make no finding as to the issue of the validity of withdrawal from a halfway house program where the person has been committed by the Attorney General. Case law suggests that where a person is confined by the Attorney General, legal process, and not self-help, is the proper means for procuring release. See Mulli-can v. United States, 252 F.2d 398, 403 (5th Cir.1958).
