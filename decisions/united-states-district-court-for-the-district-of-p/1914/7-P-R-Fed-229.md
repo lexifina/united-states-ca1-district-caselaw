@@ -1,0 +1,33 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "101"
+decided: "1914-07-21"
+citations: ["7 P.R. Fed. 229"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RE DOOLEY, SMITH, & COMPANY, Bankrupt."]
+source_url: "https://static.case.law/pr-fed/7/cases/0229-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12112808
+cites_cases: ["149 Fed. 194", "54 L.R.A. 826", "79 C. C. A. 153"]
+---
+
+# In re Dooley
+
+## Majority (Hamilton, Judge,)
+
+Hamilton, Judge,
+delivered tke following opinion:
+Tke defendant kerein kas keen duly adjudicated a kanks rapt, and the matter is now one to be administered in the usual bankruptcy proceedings. Up to lately, however, it was in a somewhat anomalous condition. There was an application made for an adjudication in involuntary bankruptcy, upon which followed negotiations for a composition without a formal adjudication. Pending this, receivers were appointed by the primary court, the United States district court for the southern district of Uew York, and they qualified in this court, within whose jurisdiction the principal assets are located. The •business was carried on within this jurisdiction and seems to have realized a profit.
+There having now been an adjudication in bankruptcy, a trustee will soon be appointed and take charge. The receivers now ask that an allowance be made of attorneys’ fees.
+1. Receivers may be appointed by court at any time after the filing of petition in bankruptcy, and until it is dismissed or the trustee is qualified. Bankruptcy act, § 2 (3); Collier, Bankr. p. 29.
+2. The fees of attorneys for trustees are strictly an expense of administration, and are payable out of the estate. Collier, Bankr. pp. 692, 693. So of attorneys for receivers. Loveland, Bankr. p. 256.
+Loveland on Bankruptcy, p. 258: “The amount of the attorney’s fee to be allowed to a receiver or a trastee in bankruptcy rests in the sound judicial discretion of the court. . . . There is no fixed rule or standard by which the court can measure the amount of attorneys’ fees to trustees or receivers because the amount of professional services rendered is not the same in any two cases.”
+Collier on Bankruptcy, p. 693, says: “The amount of the allowance depends on a variety of circumstances, viz., the time employed, the difficulty of the legal questions involved, the result achieved, the amount at stake, and the size of the estate.”
+In Page v. Rogers, 79 C. C. A. 153, 149 Fed. 194, 17 Am. Bankr. Rep. 854, it was held that where the aggregate sums necessary to pay all provable claims, etc., amounted to $78,086.-78, and the total sum of assets was $70,891.54, an allowance of $15,000 as counsel fee to the trustee for his attorney is not so excessive as to show abuse of discretion of the court below.
+Receiver’s attorneys allowed $1,500 in a case where amount of claims was under $26,000; court says: “As to the fees of counsel [the receivership lasting only several months], no doubt there has been quite a little to do in one way and another. But part of it has been in the interest of the creditors whom they have represented, rather than the receiver or the estate. Only to the extent that they have acted directly in behalf of the estate, or it has been benefited by what they have done, are they entitled to be paid out of it. It seems to me that $1,500 will cover this, and that is the amount I will allow.” Re Ketterer Mfg. Co. 19 Am. Bankr. Rep. 646, 155 Ped. 987.
+It is to be remembered also that one great object of the bankruptcy law is to secure an inexpensive administration of the estate. This should be borne in mind in all considerations of fees and allowances, but at the same time it must also be borne in mind that, in order to secure a full administration of an estate, whatever payments are essential must be made. The court must have in mind both the propriety of an economical administration and the necessity of necessary outlays where these are not absolutely fixed by law.
+3. It is sometimes said that counsel fees should be allowed at the last meeting of creditors. This has the advantage that by that time the services necessarily performed can be known, and the assets will have been all realized. Moreover, this practice may tend to expedite the closing of administration. Such a practice, however, could hardly apply to the case of a preliminary receivership. The attorney of the receiver has done his full duty when the property is turned over by the receiver to the trustee. There seems to be no reason, therefore, why the court cannot at this time make a proper allowance, payable, however, to use the analogy of regular bankruptcy proceedings, when the receiver finishes his duties by turning over the property to the trustee.
+4. It is quite true that services rendered differ with the different cases, and that the compensation allowed should be accordingly different. Nevertheless, there must be some standard, even if that standard be varied somewhat with the circumstances. Perhaps the practice, which is not unusual in some jurisdictions, of allowing 5 per cent to the attorney of the complainant, who brings the fund into court for distribution, would be a fair rule in a case like this. That amount should be calculated, however, upon the total fund realized and paid at the time of distribution. Accordingly, where a fund is turned over in the middle of an administration, through change of attorneys or otherwise, the court will not feel authorized in allowing more than half of this percentage. On this basis the court is willing to allow a fee to the receiver’s attorney, to embrace also all services to him in this jurisdiction as attorney of the creditor filing the petition, of 2-J per cent upon the fair value of whatever assets are turned over by the receiver to the trustee, payable when the property is so turned over, to be-shown by an agreement signed by receiver and trustee to be filed in this cause.
+In this instance a business has bad to be managed for several months, and correspondence bad with creditors and parties at a distance, and accordingly the same percentage should also be allowed upon the receipts on the credit side of the business account. In the meantime, as it will be impracticable to obtain an order within the next. sixty days on account of the absence of the judge from the Island, the receiver is directed when in funds to pay bis attorney on account the sum of $1,500, the whole fee not to exceed $2,500. It is so ordered.
