@@ -1,0 +1,31 @@
+---
+court: "United States District Court for the District of Massachusetts"
+docket: "4592"
+decided: "1934-08-07"
+citations: ["7 F. Supp. 907"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BINGHAM et al. v. UNITED STATES."]
+source_url: "https://static.case.law/f-supp/7/cases/0907-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7364023
+cites_cases: ["1 F.Supp. 95", "268 U. S. 238", "274 U. S. 531", "278 U. S. 327", "286 U. S. 561", "40 Stat. 1098", "44 F.(2d) 141", "52 A. L. R. 1081", "52 S. Ct. 643", "63 A. L. R. 388", "76 L. Ed. 1294"]
+---
+
+# Bingham v. United States
+
+## Majority (BREWSTER, District Judge.)
+
+BREWSTER, District Judge.
+This action is brought by the executors under the will of King Upton to recover federal estate tax which, it is alleged, was erroneously exacted. The controversy arises over the action of the commissioner in including in the gross estate of the decedent, under section 402 (f), Revenue Act 1918 (40 Stat. 1098), seven policies of life insurance.
+King Upton died February 27, 1921. During his lifetime he had taken out seventeen policies of insurance on his own life, the proceeds of which aggregated $88,284.96. After deducting the $40,000 exemption, the balance of $48,284.96 was included in the gross estate. It is conceded that the proceeds of ten policies were properly included in the estate. The petitioners contend that seven of these policies, the proceeds of which aggregated $29,369.86, were improperly in-’ eluded. Four of these policies were issued by the Berkshire Life Insurance Company prior to 1896, and were originally payable to the estate of the insured without power to change the beneficiary or borrow on the policies. On July 25, 1904, the insured assigned to his wife, Anna D. Upton, providing she survived, all his right, title, and interest in these policies, reserving only the right to apply dividends to reduce premiums. Two of the policies were issued by the Manhattan Life Insurance Company prior to October, 1888. Both were -payable to beneficiaries named therein, or their legal representatives, the first to the son and the seeond to the wife of the insured. One policy was issued by the Connecticut Mutual Life Insurance Company in 1883. This policy was payable to the wife of the insured or her legal representatives. Three of the Massachusetts policies and the Connecticut policy had provisions for paid-up and cash surrender values at stated periods. One of the Massachusetts policies had no such provisions, and the New York policies provided only for nonparticipating paid-up policies in case of forfeiture for nonpayment of premiums.
+In the view I take of the ease, I deem it unnecessary to set forth in further detail the provisions of the several policies. It is enough to say that in none of them did the decedent have any right to change the beneficiary.
+If these policies can be included at all in the taxable estate of a decedent, it must be by virtue of section 402 (f) of the Revenue Act of 1918, which reads as follows:
+“See. 402. That the value of the gross estate of the decedent shall be determined by including the value at the time of his death of all property, real or personal, tangible or intangible, wherever situated — * * *
+“(f) To the extent of the amount receivable by the executor as insurance under policies taken out by the decedent upon his own life; and to the extent of the excess over $40,-000 of the amount receivable by ah other beneficiaries as insurance under policies taken out by the decedent upon his own life.”
+The terms of this subdivision of section 402 are sweeping, and embrace within its description the seven policies of life insurance involved in this controversy.
+If the Revenue Act of 1918, so far as it sought to include in the gross estate of a testator insurance policies payable to a beneficiary other than the estate, applied to past transactions, the policies involved in this suit might require a consideration of the power of Congress to thus add to the estate of a deceased person, for the purpose of exacting an estate tax. See Nichols, Collector, v. Coolidge, 274 U. S. 531, 47 S. Ct. 710, 71 L. Ed. 1184, 52 A. L. R. 1081; Sampson v. United States (D. C.) 1 F.Supp. 95; Chase National Bank v. United States, 278 U. S. 327, 49 S. Ct. 126, 73 L. Ed. 405, 63 A. L. R. 388. In Lewellyn v. Frick, 268 U. S. 238, 45 S. Ct. 487, 69 L. Ed. 934, the Supreme Court has, in no doubtful terms, declared that section 402 (f) of the Revenue Act of 1918 was never intended to apply to transactions taking place before the passage of the act. Whether that ease is authority for excluding from the operation of the Revenue Act all policies of insurance taken out before its enactment, payable to beneficiaries other than the executor, is a question that need not now be answered. The decision held that no one of the policies involved in the Frick Case could be properly included in Frick’s gross estate, whether it was a fully paid-up policy or otherwise.
+The policies with which we are concerned in the ease at bar fall within the Frick Case. I regard that as controlling. The effect of it was not limited by Chase National Bank v. United States, supra. In that case the court was dealing with policies which had been taken out subsequent to the effective date of the act imposing the tax.
+So far as my conclusions are out of harmony with Heiner v. Grandin (C. C. A.) 44 F.(2d) 141, I can only say that my views accord' with those of Judge Buffington who wrote the dissenting opinion. Notwithstanding that certiorari was denied (286 U. S. 561, 52 S. Ct. 643, 76 L. Ed. 1294) in the Heiner v. Grandin Case, I shall await some clear and definite pronouncement. from the Supreme Court before I shall feel at liberty to give the retroactive effect to section 402 (f) for which the government now contends.
+I accordingly rule that the seven policies on the life of King Upton, which are now in controversy, should not have been included in the gross estate of the decedent, and that the petitioners are entitled to recover in this action $1,931.39, with interest from February 24,1922.
