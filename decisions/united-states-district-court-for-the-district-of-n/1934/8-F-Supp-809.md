@@ -1,0 +1,41 @@
+---
+court: "United States District Court for the District of New Hampshire"
+docket: "4034"
+decided: "1934-09-08"
+citations: ["8 F. Supp. 809"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re KIBBIE."]
+source_url: "https://static.case.law/f-supp/8/cases/0809-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4137953
+cites_cases: ["196 U. S. 516", "20 F.(2d) 157", "52 N. H. 148"]
+---
+
+# In re Kibbie
+
+## Majority (MORRIS, District Judge.)
+
+MORRIS, District Judge.
+Forrest L. Kibbie, of Concord, N. H., doing business under the name and style of Pleasant Street Pharmacy, was adjudged a bankrupt upon his voluntary petition filed on the 19th day of April, 1934.
+Arthur H. Knowlton was appointed receiver with authority to take over the assets of the bankrupt. At the time, the McKesson Eastern Drug Company of Boston claimed to be in possession of the entire stock of goods and fixtures in the store occupied by the bankrupt holding possession under a chattel mortgage given by the bankrupt to the drug company on the 16th day of January, 1933. The drug company against its protest was ordered to turn over to the receiver the store and its contents which it did. Subsequently the receiver was authorized to make a sale of the stoek of goods and fixtures receiving therefor the sum of approximately $4,000. The sale was assented to by all parties concerned and the price considered satisfactory.
+On May 21, 1934, counsel for the drug company filed a petition seeking to have Herbert W. Rainey, who had been appointed trustee of the bankrupt estate, pay over to the drug company the money in his hands received from the sale.
+A question arising as to the validity of the drug company’s mortgage, the matter was referred to Raymond U. Smith, as special master to find and report the facts.
+From the master’s report, it appears that on January 16, 1933, the bankrupt executed a mortgage to the McKesson Eastern Drug Company covering all of his stoek in trade and fixtures in his store at 34 Pleasant street, Concord, N. H. The description in the mortgage is as follows: “All goods, chattels, wares, effects and merchandise, to wit: one desk, one safe, one typewriter, adding machine, 40 feet wall eases, soda fountain and back bar, soda fountain booths, tables, cash registers, and merchandise of all sorts and nature, including regular drug store merchandise and contents of sporting goods department and prescriptions, etc., belonging to the grantor and located in or upon the premises occupied by said grantor at 34 Pleasant Street, Concord, New Hampshire, meaning and intending hereby to convey everything said grantor owns in connection with the operation of his business as a retail store and located on the aforesaid premises.”
+This mortgage was duly recorded in the office of the city clerk, Concord, N. H., January 16,1933. On the 17th day of April, 1934, the mortgagee took possession of the store and contents for the purpose of foreclosing its mortgage.
+The master has found that on that date there was due the mortgagee the sum of $3,-830.
+Prom the date of said mortgage to the time the claimant took possession of the stock, sales had been made therefrom in the usual course of business without the mortgagor making any accounting to the mortgagee for the goods so sold. This was in accord with an agreement between the parties entered into prior to the giving of the mortgage. Subsequent to the date of the mortgage the bankrupt bought goods from the drug company paying promptly for each order. Salesmen from the mortgagee’s place of business called on the bankrupt from time to time during business hours and saw customers trading at the store. Mr. Cutler, who executed the mortgage, as the president of the McKesson Eastern Drug Company, visited the store about once in two months and looked over the store and its contents in a general way.
+Evidence of the oral understanding between the bankrupt and the mortgagee was offered and received subject to exceptions taken by counsel for the drug company. The question of its admissibility is referred to the court. I rule that the evidence is admissible. But if technically inadmissible, it must be held harmless because of the fact that the master might well find that such an understanding existed between the parties from their subsequent conduct. He has found from all the evidence that the claimant knew that the mortgagor was selling' goods from the stock in the usual course of business without accounting to the mortgagee for the proceeds from the time the mortgage was given to the time the claimant took possession and during that time claimant made no demand on the bankrupt for an accounting of such proceeds. The master has found that the value of the fixtures at the time of the sale was $916.67; that the value of the original stock was $395.30, and the value of the new stock $2,-688.03, as measured by the price of $4,000, obtained for the stock and fixtures at the receiver’s sale.
+The legal question involved is whether or not the chattel mortgage, upon a shifting stock in trade, is valid if it is given with the understanding that the business may be conducted in the ordinary way without the mortgagor making any accounting for the proceeds of the mortgaged property sold.
+Upon the facts in this case there is a further legal question as to whether or not the mortgage is valid in so far as it covers the fixtures.
+To what extent a chattel mortgage is valid is a local and not a federal question. Decisions of the state court will be followed by the federal court. Thompson v. Fairbanks, 196 U. S. 516, 25 S. Ct. 306, 49 L. Ed. 577.
+In the case of Putnam v. Osgood, 52 N. H. 148, it is held that an agreement or understanding between a mortgagor and mortgagee of chattels, though made after the execution of the mortgage, that the mortgagor may sell the mortgaged property or part of it, on his own account, renders the mortgage void as to creditors and such agreement or understand-ing will be proved by evidence that the mortgagor did so sell with the knowledge of the mortgagee and without objection on his part.
+I had occasion to examine somewhat carefully the same question here involved in the case of In re Streeter (D. C.) 20 F.(2d) 157, and I there held as I now hold that a chattel mortgage given with a secret understanding that the mortgagor may retain possession of the goods and continue to sell them as before for his own benefit, creates a secret trust that is presumptively fraudulent as to creditors and therefore void.
+The remaining question relates to the part of the mortgage covering the fixtures. Of course, the fixtures were not a shifting stock and there appears to have been no agreement between the parties that they might be sold by the mortgagor. If the mortgage had covered the fixtures alone, no question concerning its validity would arise. But they were tied up with other parts of the mortgage which I hold to be presumptively fraudulent.
+In this connection attention is called to the last paragraph in the mortgage which reads as follows:
+“It is mutually hereby agreed that the grantee, at its election, may apply any moneys received from the grantor to either the open account or upon any other debt owing by the grantor to the grantee or at any time to make reapplication o£ payments.”
+If the mortgagee had assented to a sale of the stock in trade in accordance with N. H. Pub. Laws, c. 216, § 17, and had applied the proceeds of such sale or sales to the mortgaged debt, it might have followed, and probably would have followed, that the entire debt would have been paid and the mortgage on the fixtures liquidated.
+I am therefore constrained to hold that the mortgage is not divisible, and, being invalid in part, it is invalid as a whole.
+A question which arises in my mind, but which I do not find it necessary to decide, is whether a mortgage of one’s entire stock in trade and fixtures is not fraudulent and void unless the parties comply with the New Hampshire “Sales in Bulk Act.” N. H. Pub. Laws, c. 216, § 37.
+A draft decree may be presented in accordance with the foregoing opinion.
