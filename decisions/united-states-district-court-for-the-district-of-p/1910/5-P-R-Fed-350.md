@@ -1,0 +1,27 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "666"
+decided: "1910-02-12"
+citations: ["5 P.R. Fed. 350"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FERNANDO VALLEDOR, ETC., v. AGRIPINA CUMMINGS Y RALDIRIS."]
+source_url: "https://static.case.law/pr-fed/5/cases/0350-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12112726
+---
+
+# Valledor v. Cummings y Raldiris
+
+## Majority (Rodey, Judge,)
+
+Rodey, Judge,
+delivered tie following opinion:
+TIis is a suit by tie complainant as trustee in bankruptcy of tie estate of Narciso Eerrer, against tie respondent, Agrip-ina Cummings y Raldiris, wlo is tie transferee of two louses situated in the town of Yauco, Porto Rico, which she received .■líder a deed dated the 19th of December, 1908, and which was recorded in the proper registry two days later, on December 21st of that year.
+The allegation is that Ferrer was a merchant in Yauco at the time of the making of the deed, and that at such time he owed more than $20,000 and was insolvent and unable to pay his debts, and that he made this deed to respondent so as to put the property out of the way of his creditors, and that he received no consideration whatsoever for so doing, and that the property still belongs to his estate.
+The proofs were taken by the court itself without the intervention of an examiner or master. They showed that respondent is an aunt of the bankrupt’s wife.
+The history of the matter is about as follows: On February 15, 1909, several of Ferrer’s creditors filed a petition in involuntary bankruptcy against him (suit No. 40, docket), the act of bankruptcy alleged therein being the transfer of the property in question to the respondent. Within the next month or so thereafter, the original petitioners were joined by many other creditors. Several writs of attachment were issued against his place of business, which was a considerable establishment, and against all his other property. Ferrer denied his insolvency, and, after much amending of the petition and other proceedings by the original petitioners and intervening creditors, as well as by this transferee, the question of his insolvency was tried out by the court itself, and, after a full hearing, he was, under date of May 24, 1909, held not to have been insolvent at the date of the filing of the original petition against him on February 15, 1909. However, it transpired that the original involuntary petition, and the consequent attaching of his place of business and other property, did in fact later render him insolvent, owing to the damage of stopping his business as a going concern, and the consequent depreciation in value of his large stocks of goods and other property. Therefore, under date of July 10, 1909, he filed a voluntary petition, and was thereafter duly adjudicated a bankrupt in accordance with law, this complainant being elected trustee of the estate.
+How, it will be seen that the recording of the deed which he gave to the respondent, on December 21, 1908, was nearly two months before the involuntary petition was filed against him on February 15, 1909, and the court, as stated, after a full hearing on the issue raised by his denial that he was so insolvent at such time, held that he was not. It can also be seen that his voluntary petition was filed six months and nineteen days (December 21, 1908, to July 10, 1909) after respondent recorded her deed for the two houses in question; therefore no question of the occurrence having taken place within the four months’ limit provided by the'national bankruptcy act can arise, and the bill must therefore be maintained, if at all, on the theory that the property thus transferred still belongs to the estate of the bankrupt. In fact, this is the theory upon which the bill was filed.
+At the trial, counsel for the trustee appeared to be wholly unable to introduce any satisfactory proof of the allegations of the bill. He called both the bankrupt and the respondent. The latter testified, and seemed to successfully maintain her position against all cross-examination, that she is a woman of means, that she had been lending' the bankrupt money through a period of two or three years previously as he required it, and that, just before the date of the deed, she had loaned him an additional thousand dollars, 'which made np the full consideration of $7,500 for the property; and that he then voluntarily, at her request, being otherwise unable to pay her what she had loaned him through that period, made her the deed in question in the best of faith, and that she at once took possession of the property, and has held it ever since as her own, having successfully fought off all of his attaching creditors at the time of the filing of the involuntary petition against him. The bankrupt confirmed everything she said, and his cross-examination by counsel and the court indicated that he was telling the truth, and that he did so in fact borrow and receive this money in good faith, and that he did in good faith transfer the property to the respondent. There was practically no evidence put in for the defense.
+Therefore, on the whole case, we are obliged to hold that the complainant cannot recover, and the bill will therefore be dismissed with costs, and an order to that effect will be entered.
