@@ -1,0 +1,36 @@
+---
+court: "United States District Court for the District of Massachusetts"
+docket: "98-M-0405RBC"
+decided: "1998-04-28"
+citations: ["3 F. Supp. 2d 118"]
+reporter: "f-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the EXTRADITION OF Shoshannah Elisheba SCHWEIDENBACK."]
+source_url: "https://static.case.law/f-supp-2d/3/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11686220
+cites_cases: ["106 F.3d 855", "110 F.3d 103", "18 U.S.C. § 1204", "38 L.Ed.2d 133", "414 U.S. 884", "478 F.2d 894", "572 F.Supp. 95", "618 F.2d 843", "638 F.2d 105", "832 F.2d 492", "939 F.Supp. 934", "94 S.Ct. 204", "951 F.Supp. 505", "957 F.Supp. 1280"]
+---
+
+# In re the Extradition of Schweidenback
+
+## Majority (COLLINGS, United States Magistrate Judge.)
+
+MEMORANDUM AND ORDER RE: CERTIFICATION OF EXTRADITABILITY
+COLLINGS, United States Magistrate Judge.
+Reference is made to my rulings, issued April 16, 1998, on Defendant’s Motion To Quash Warrant (#8) and Motion For A Change Of Venue (# 10) which narrowed somewhat the scope of the issues which remained for determination at the extradition hearing. At the extradition hearing held on April 20, 1998, Shoshannah Elisheba Schweidenback raised only two discrete issues that are susceptible to somewhat summary disposition.
+To briefly set the stage:
+Section 3184 (of Title 18) defines the role of the judicial officer in the extradition process. The judicial officer is to determine whether the accused, sometimes referred to as the relator, is extraditable in accordance with the terms of the governing treaty and statutes. See id. § 3184. Primarily this means that the judicial officer must determine whether the United States and the requesting country are parties to a valid extradition treaty; whether the relator is in fact the person who has been charged by the requesting state; whether an arrest warrant from the requesting state is outstanding; whether the offences with which the relator is charged are extraditable under the treaty; and whether there is probable cause to believe that the relator committed the crime charged.
+In The Matter Of Extradition Of Lui Kin-Hong, 939 F.Supp. 934, 941 (D.Mass., 1996) (citation omitted), habeas corpus granted by Kin-Hong v. U.S., 957 F.Supp. 1280(D.Mass., 1997), reversed U.S. v. Kin-Hong, 110 F.3d 103 (1 Cir.1997).
+Nearly all of these elements are undisputed in this case, to wit: there is agreement that the United States and Canada are parties to a valid extradition treaty; that Ms. Schweid-enback is the person charged in Canada; and that the Canadian arrest warrant is outstanding.
+A challenge is raised with respect to whether the offenses with which Ms. Schweidenback is charged in Canada, those being two counts of parental child abduction, are extradictable under the ti’eaty. Ms. Schweidenback contends that the requirement of dual criminality has not been met. To explain more fully, pursuant to a Canadian court order, Ms. Schweidenback had sole custody of her two children, with their father being entitled only to visitation rights. It is argued that because Rhode Island law, specifically R.I. St. § 11-26-1.1, only criminalizes the intentional removal of a child “with intent to deny another person’s right to custody,” Ms. Schweidenback has committed no crime under state law because she alone enjoyed the right to custody of her sons.
+The provision relevant to dual criminality in the United States/Canada treaty reads as follows:
+(1) Persons shall be delivered up according to the provisions of this Treaty for any of the offenses listed in the Schedule annexed to this Treaty, which is an integral part of this Treaty, provided these offenses are punishable by the laws of both' Con-trácting Parties by a term of imprisonment exceeding one year.
+Treaty Between the United States Of America and Canada, Article 2(1). The term “Contracting Parties” in this Article of this treaty has been construed to mean the United States and Canada and, as a consequence, the court must “ ‘look to proscription by similar criminal provisions of federal law or, if none, the law of the place where the fugitive is found or, if none, the law of the preponderance of the states.’ ” In Matter of Tafoya, 572 F.Supp. 95, 99 (W.D.Tex., 1983), quoting Cucuzzella v. Keliikoa, 638 F.2d 105, 107 (9th Cir.1981). See Brauch v. Raiche, 618 F.2d 843, 850 (1st Cir.1980) (issue is whether “the acts upon which the [foreign] charges are based are proscribed by similar criminal provisions of federal law, New Hampshire law, or the law of the preponderance of the states.”); see also Theron v. United States Marshal, 832 F.2d 492, 496 (9th Cir.1987); In The Matter Of The Extradition Of Gunther Lehming, 951 F.Supp. 505, 512-13 (D.Del., 1996) (applying U.S. federal law in a case involving comparable language in German treaty).
+Turning to federal law, there is no question that Title 18 U.S.C. § 1204 serves as a counterpart to the offenses charged in the Canadian warrant, and for criminal liability, it requires only that a' person removes a child “with intent to obstruct the lawful exercise of parental rights.” Ms. Schweidenback does not contest that this law would apply to the obstruction of visitation rights, not just custodial rights. In these circumstances, the dual criminality requirement has been satisfied.
+The second issue to be addressed is rather theoretical. Ms. Schweidenback asserts that probable cause has not been proven because her rights under the equal protection clause of the Constitution have been violated in that she is being pursued by the Canadian authorities due to her American citizenship. She claims that she was not treated fairly by the Canadian courts because of her nationality. Ms. Schweidenback readily admits that there are no provisions in the treaty now at hand that deal with this issue as there are in other treaties, nor does she offer any law whatsoever in support of her theory that the equal protection clause is applicable in the current circumstances. Rather, it is argued only that this is an implied doctrine.
+In the absence of any legal authority to support this contention, it quite simply must fail. Moreover, in light-of the circumscribed role assigned to the courts in extradition proceedings, to the extent that the contention has any merit, it might best be presented to the executive branch. In short, based upon the evidence presented, the government has established probable cause.
+. The concept of dual or double criminality means “that the offense for .which a person is extradited must be punishable as such under the laws of both the requesting and the requested nation.” Shapiro v. Ferrandina, 478 F.2d 894, 907 n. 12 (2d Cir.1973), cert. dismissed, 414 U.S. 884, 94 S.Ct. 204, 38 L.Ed.2d 133 (1973).
+. See, e.g., United States v. Kin-Hong, 110 F.3d at 106 (noting that the treaties, by their terms, gave the courts a greater role when considerations of race, religion, nationality or political opinion were allegedly at play); In Matter of Requested Extradition of Kirby, 106 F.3d 855, 862 (9th Cir.1996) (discussing the same United States/United Kingdom Supplementary Treaty).
+. The Court found no precedent supportive of this theory either.
