@@ -1,0 +1,24 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "994"
+decided: "1914-12-07"
+citations: ["7 P.R. Fed. 364"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOSE MATEO FANFAN v. FAJARDO SUGAR GROWERS ASSOCIATION."]
+source_url: "https://static.case.law/pr-fed/7/cases/0364-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12113897
+---
+
+# Fanfan v. Fajardo Sugar Growers Ass'n
+
+## Majority (IIamiltoN, Judge,)
+
+IIamiltoN, Judge,
+delivered tbe following opinion:
+Last week, tbe day before tbe case was set for trial, tbe plaintiff made a motion for an. order of dismissal or nonsuit and made a tender of tbe clerk’s costs. This motion was made to tbe court. I do not know wbat bad happened prior thereto before tbe clerk. There is nothing before me about that, but at tbe time tbe defendant was in court and stated that be bad bis witnesses in town, brought from a distance, and my ruling was that a payment of costs fairly considered would mean tbe payment of all taxable costs, and not simply tbe costs in tbe clerk’s office for subpoenaing witnesses, or whatever might be connected with witnesses. I did not intend that it would mean attorneys’ fees or anything of that sort, but simply wbat are taxable costs. I directed tbe clerk to tax tbe costs in accordance with that bolding. I understand they amounted to $82.50. I suggested to counsel for tbe plaintiff that if tbe amount was not correct, be should make a motion to have them retaxed. I take it that tbe matter comes before me now, however, not on any objection to tbe costs as taxed, but on general principles.
+1. Tbe matter of forma pauperis makes no' difference one way or tbe other. Tbe person who sues in forma pauperis is not now asking leave to sue; be is asking leave not to sue, to get out of bis suit, and that statute does not apply one way or tbe other. It is just tbe same as if that was not in tbe case.
+2. As to dismissal with costs, I think, as I stated last week, that § 192 of tbe Code of Civil Procedure applies. That, however, provides for tbe payment of costs, and tbe question under tbe statute is, Wbat are tbe costs that we are concerned with? The object of taking a nonsuit is that the plaintiff shall' have a right to begin over again. A fair construction of this is. that, if a plaintiff has the right to begin over again, if the matter is to be begun de novo, the defendant should be in a de novo position too, should be as he was before, that is to say, he-should not have been put to any payment of costs. If it had been shown by a decision of a California court, for instance,— which has not been done, — that the costs under the statute-meant only the costs of the plaintiff or the costs in the clerk’s-, office, I would not be able to follow it. The reason is that as-to the payment of local costs the local statute applies, but the-costs in Federal courts are prescribed by the Kevised Statutes, and Federal courts have always reserved the right to define-what are costs, and do not follow the local statutes as to them.
+I think I am construing the practice correctly when I say that the costs must be those of both sides up to the time when-the motion is properly made, and the clerk has taxed them at $82.50. If there is anything wrong with the amount, there-is another way of getting at it, but that does not come up this morning. The plaintiff practically admits that he must pay the* costs, but he says that the taxation should be made at the time when he first went to the clerk and stated that he wanted to dismiss his case and tendered his check. I am not able to pass-upon this because I do not know what happened before the-clerk. What happened before the court was that a motion was-made to the court, not to the clerk, to take a nonsuit, and a-certain tender was alleged, and at the time, as I understood it, it was admitted that the tender did not embrace the costs of' the defendant at the time, and I held that it must cover the-costs of the defendant up to that time. The matter went over.to tbe next day so as to give tbe plaintiff an opportunity to pay tbe costs, and be did not do it. Tbe situation was tbe same, tbe next day as it was tbe day before, except, if tbe defendant bad any witnesses, there was tbe expense of one day more. So-it looks to me as if tbe situation bad not changed except that tbe costs have probably been increased, and the order will be' reaffirmed, dismissing tbe case or allowing tbe plaintiff to take a nonsuit upon payment of tbe costs as taxed. I am not saying whether tbe plaintiff can do anything about what has been taxed or not. That is not before me right now. Tbe plaintiff is given ten days within which to pay tbe costs.
