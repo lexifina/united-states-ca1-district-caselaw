@@ -1,0 +1,29 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "91"
+decided: "1910-01-17"
+citations: ["5 P.R. Fed. 319"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES v. JOSÉ FALCASTRO."]
+source_url: "https://static.case.law/pr-fed/5/cases/0319-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12112541
+cites_cases: ["112 U. S. 439", "19 Sup. Ct. Rep. 254"]
+---
+
+# United States v. Falcastro
+
+## Majority (Rodey, Judge,)
+
+Rodey, Judge,
+filed tbe following opinion:
+Tbe defendant demurs to tbe indictment wbicb is returned under § 2865 of tbe Revised Statutes of tbe United States (U. S. Oomp. Stat. 1901, p. 1905), on tbe ground tbat tbe words describing tbe crime do not sufficiently identify tbe same, or give tbe defendant sufficient notice to enable bim to prepare bis defense, or to avail bim against a second prosecution on tbe same charge.
+Tbe statute in question reads as follows: “Section 2865. If any person shall knowingly and wilfully, with intent to defraud tbe revenue of tbe United States, smuggle, or clandestinely introduce, into tbe United States, any goods, wares, or merchandise, subject to duty by law, and wbicb should have been in- : voiced, without paying or accounting for tbe duty, or shall mako out or pass, or attempt to pass, through tbe custom bouse any false, forged, or fraudulent invoice, every such person, bis, her, or their aiders and abettors shall be deemed guilty of á misdemeanor, and on conviction thereof shall be fined in any sum not exceeding five thousand dollars, or imprisoned for any term of time not exceeding two years, or both, at the discretion of the court.”
+The indictment, leaving out the formal parts, charges that the defendant “did then and there wilfully, knowingly, fraudulently and unlawfully, and with the intent then and there to defraud the United States revenues, import, bring, smuggle, and clandestinely introduce into the United States, to wit: into the district of Porto Rico of the United States, and within the jurisdiction of this court, from a foreign country, said foreign country being to the grand jurors unknown, 16 bottles of Holland gin, which said 16 bottles of Holland gin were then and there marked ‘Henkes’ and which said 16 bottles of Holland gin should then and there have been invoiced, and which said 16 bottles of Holland gin were then and there subject to a duty by law, to wit: a duty of $2.25 per gallon and upon which said 16 bottles of Holland gin no duty was then and there paid or accounted for, according to law, and none of which said 16 bottles of Holland gin were then and there invoiced, and that the said 16 bottles of Holland gin, and the whole thereof, were by the said José Falcastro thereby then and there unlawfully, wilfully, knowingly, and fraudulently brought, imported, smuggled, and clandestinely introduced into the United States, and into the district of Porto Rico at the port of Ponce, Porto Rico, from a vessel or vessels to the grand jurors unknown, the said vessel or vessels as aforesaid, proceeding from a foreign country or countries to the grand jurors unknown, contrary to tbe form of tbe statute in sucb case made and provided, and against tbe peace and dignity of tbe United States.”
+It can thus be seen that this indictment closely follows tbe statute under wbicb it is returned, but is in fact more ample than tbe words of tbe act charged to bave been violated, and in addition describes tbe bottles of gin alleged to bave been smuggled or clandestinely introduced as being marked “Hen-kes,” and so tbe only lack of information wbicb tbe defendant might be able to complain of is tbe fact that tbe name of tbe vessel or vessels in wbicb tbe goods were brought is not given, and that tbe country or countries from which tbe same were imported is alleged to be to tbe grand jurors unknown.
+After a rather hasty examination of tbe scanty authorities before us we are of opinion that tbe indictment would bave been good if it bad set out nothing about tbe vessel or vessels from wbicb tbe goods were taken, or tbe country or countries from wbicb they were brought, the gist of the crime being to knowingly and wilfully, with intent to defraud the revenues of the United States, smuggle or clandestinely introduce into tbe United States any goods, etc. Under § 270 of Joyce on Indictments it is stated that facts wbicb are not vital to tbe accusation, but that may be to a certain extent descriptive of tbe offense, may be stated in an indictment as unknown to tbe grand jury, where sucb is tbe case. That section further states that, in a recent case in Florida, it was said that it is well -settled in criminal pleading that tbe omission to state some matters of description, not essential constituents of an offense but wbicb are required to be stated if known, may be excused by an allegation that they are unknown to tbe indicting grand jury-
+Tbis statement of tbe text is supported by citations from Florida, Alabama, California, Indiana, Massachusetts, Michigan, Minnesota, Montana, New York, and South Carolina.
+We also feel that the reasoning of Mr. Justice White, of the Supreme Court of the United States, in Keck v. United States, 112 U. S. 439, 43 L. ed. 501, 19 Sup. Ct. Rep. 254, when passing upon an indictment under this same section of the Revised Statutes of the United States, supports the view of the matter we are here expressing.
+This latter ease is one that was exhaustively considered, and the court indulges therein in a learned, review of the history of the section of law in question. We are therefore of opinion that the demurrer should be overruled, and an order to that effect will be entered.
