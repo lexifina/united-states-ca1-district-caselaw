@@ -1,0 +1,23 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "1110"
+decided: "1916-12-06"
+citations: ["9 P.R. Fed. 261"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM WILSON, Plff., v. JOSEPH CODY, Dft."]
+source_url: "https://static.case.law/pr-fed/9/cases/0261-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12112668
+---
+
+# Wilson v. Cody
+
+## Majority (HamiltoN, Jndge,)
+
+HamiltoN, Jndge,
+delivered tbe following opinion:
+The question immediately before me is whether there is anything before me. It seems that the question whether the defendant Cody can be properly served with civil process has come up in one shape or other before.
+The complaint was filed November 24, 1915, and there was-on the 29th of that month a special appearance and motion to> set aside service of summons. On the next day plaintiff’s: motion for arrest of tbe defendant and motion to set aside the summons were both denied. Defendant was allowed to renew his motion at a later date. That was the 30th of November. The way he seems to have brought up the point again was by a plea in abatement a few days later, December 3d, representing that the complaint and summons should be abated for the reason that the service was made upon the defendant in this jurisdiction while in attendance as a witness in another case. This plea seems to have remained in the file until February, when it was argued and submitted. On February 26th it was overruled; held, according to the journal entry, apparently, to be bad and overruled. The next step shown is on Tune 16, 1916, special appearance of the defendant for the purpose of moving to quash the summons, and it is as to that motion that the question now argued arises. It seems that on May 25th, which was before this appearance for the purpose just mentioned, a default had been entered, and nothing was done with this, so far as the «docket entry shows, until August. On the 23 d of - August, a motion to set aside this default was granted, conditioned on defendant’s paying costs within four weeks. That is the matter That came up this morning. It seems that the costs were paid just within the four weeks, in August and September. All of Ibis was at the last term of court. It is contended that the motion to set aside the default, which was passed upon, contained another point which was not passed upon; that is to say, a motion to quash the service of summons. The journal entry seems to show that the motion which was made was granted to the extent of setting aside the default upon certain conditions. It does not show that it was denied in the other particular; that is to say, the quashing of the service of summons. But it is not a question of wbat tbe court and tbe parties happen to recollect or wbat any of ns intended. It is simply a question of what is tbe legal effect of these different entries. Tbe rule seems to be that pleadings survive tbe term; that is to say, an answer or a complaint or whatever it may be stands until tbe court takes some action upon it. But that all motions die with tbe term unless specially continued. A motion, for a new trial even, dies with tbe term unless it is continued. There is no entry, as I understand, that this motion or part of motion was continued. Tbe proper construction, I think, of these entries is that, if this motion was not to be considered as waived by not being called especially to tbe attention of tbe court, at all events tbe end of tbe term ended tbe motion, so that motion did not survive tbe term and could not come up' now. I think this is tbe legal effect. I have so held in other cases. So, I should have to bold that there is no motion before me; that it did not survive tbe last term.
+Tbe question comes up, Wbat is tbe condition of tbe case under tbe circumstances ? Tbe default has been set aside and tbe case is on tbe docket, and it seems to be on tbe docket with a complaint and nothing else. Of course it should not stay that way. I shall not take any final action in tbe matter, but as it seems to have been to some extent a matter of misunderstanding, I will do this. Tbe defendant is given five days for such further pleading as be may be advised. I will not undertake to say wbat that will be. Whether I could take up a motion now on a matter which was apparently disposed of last term I do not know, but I will put it this way: tbe matter comes up on a motion for a default, and this is denied and tbe defendant is allowed five days to further plead.
