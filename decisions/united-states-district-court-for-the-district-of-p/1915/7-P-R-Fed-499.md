@@ -1,0 +1,30 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "1018"
+decided: "1915-02-06"
+citations: ["7 P.R. Fed. 499"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SAN JUAN FRUIT COMPANY, Plff., v. CARRILLO ET AL., Dfts."]
+source_url: "https://static.case.law/pr-fed/7/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12114548
+---
+
+# San Juan Fruit Co. v. Carrillo
+
+## Majority (HamiltoN, Jndge,)
+
+HamiltoN, Jndge,
+delivered tbe following opinion:
+This eonrt rendered an opinion on October 21, 1914, and since then the complaint has been amended. A. motion to strike and a demurrer have now been filed to the amended complaint, designed to raise substantially the same questions.
+1. The motion to strike is under § 123 of the Code of Civil Procedure, which provides that “all irrelevant and redundant •matter in a pleading shall be stricken out by the court on motion of the opposed party.” The matter supposed to be irrelevant is paragraph 8 and the exhibit, which together are intended to raise the point of res judicata. The exhibit in question contains a transcript of the record in a case in the local district court of San Juan between certain Carrillo plaintiffs and parties constituting tbe firm of San Juan Fruit & Land Company. That suit was filed April 9, 1906, and resulted in a sentence April 29, 1909, in tbe following words: “And tbe court being duly advised in tbe premises, having beard tbe proof and tbe argument of counsel, is of tbe opinion that the law and tbe facts are against tbe plaintiffs; wherefore it bolds that it should dismiss, and does hereby dismiss, tbe complaint with costs to tbe plaintiffs, and further, that plaintiffs should recover nothing from tbe defendants. Let judgment be entered accordingly.”
+This judgment of the court was sustained by tbe supreme, court, as shown by memorandum No. 455 in volume 15 of Portp Rico Reports, 825.
+Tbe argument is that this record does not constitute res judicatabecause tbe judgment does not show that tbe title was involved. Tbe form of a judgment is sometimes brief. It may express tbe details of law or facts found, or, if not, tbe complaint and other proceedings may be referred to in order to illustrate and explain tbe judgment upon them. Talc-ing the pleadings with tbe judgment, it is not clear that tbe suit did not involve tbe title. Even if this were true, it would not be reached by a motion to strike. A motion to strike for irrelevancy cannot be substituted for a demurrer to a pleading for insufficiency. A demurrer gives an opportunity to amend, while a motion to strike may not. Moreover, tbe point presented is one of pleading, and tbe court cannot say in advance that evidence may not be presented upon tbe trial which will cure any supposed brevity of tbe pleading of res judicata.
+2. It is further argued that res judicata is a defense, and cannot be made tbe basis of affirmative relief in a complaint. No authorities were cited in support of this, and on principle it does not seem to be well founded. Bes judicata may not, under the laws of registration in Porto Rico, be sufficient to confer a title, but no reason has been shown why it may not be sufficient to estop or prevent parties to the suit in question from setting up anew a claim which they had once lost in a suit with the same opponents. It may affect the remedy, although it may not affect the title.
+■ 3. The exhibit in question does contain irrelevant matter, in that it- annexes forty-five pages of a brief which was apparently filed in the local court. However illuminating the discussion may be, it is not proper as pleading, and the motion to strike will be granted so far as relates to this brief.
+4. The demurrer seeks to raise the point that the cause of action has prescribed. The complaint, however, alleges that the defendant did not and does not possess in good faith. If this be so, no prescription short of thirty years would meet the case, and this period has not elapsed since the defendants began to hold adversely.
+5. The demurrer further avers, as was set up against the original complaint, that the possession of each defendant is not sufficiently identified. The amended complaint, however, as drawn, is not subject to this defect, whatever may be the proof when the parties come to trial. As to whether the amended complaint makes a departure from the original complaint is not raised by the motion or demurrer. The complaint describes a certain definite ta*act of land, alleging that the plaintiff is its Owner entitled to possession, and goes on to say that the “defendants continue in possession of the said tract . . . without right or title thereto and against the will of the plaintiffs.” Nowhere is there any intimation that the defendants hold separate portions of tbis general tract of 35 cuerdas. Tbe principles governing certainty in description have been discussed in tbe previous opinion in tbis case, and need not be here repeated. It is true tbat in tbe exbibit attached to tbe complaint it is alleged tbat tbe several complainants at tbat time, tbat is 1906, claimed various parcels, wbicb are separately described therein. Tbe present complaint, however, does not adopt these allegations as applicable to tbe present possession. It merely says tbat tbe defendants are in possession, wbicb, without more, would be construed as meaning tbat they own undivided interests. Whether tbe plaintiff meant to allege tbis, tbe court does not know; but it is tbe legal construction of a paper alleging tbat several parties are in possession of one tract of land. Whatever may be tbe effect of tbis when evidence is offered, there is no defect subject to demurrer. Tbe demurrer is therefore overruled.
+It is therefore ordered tbat tbe motion to strike is denied so far as relates to tbe matter of res judicata, but it is granted as to tbe brief made part of Exhibit “A.”
+It is further ordered tbat tbe demurrer be, and tbe same hereby is, overruled.
