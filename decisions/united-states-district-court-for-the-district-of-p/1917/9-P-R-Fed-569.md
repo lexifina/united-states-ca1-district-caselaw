@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Puerto Rico"
 docket: "946"
 decided: "1917-04-27"
-citations: ["9 P.R. Fed. 569", "9 P.R. Fed. 565"]
+citations: ["9 P.R. Fed. 569"]
 reporter: "pr-fed"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["BANCO POPULAR Complainant, v. E. B. WILCOX, Dft."]
 source_url: "https://static.case.law/pr-fed/9/cases/0569-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12113870
-cites_cases: ["21 Wall. 17", "226 U. S. 652", "23 P. R. R. 656", "24 C. C. A. 512", "33 Cal. 480", "6 Wall. 156", "79 Fed. 179", "9 Wheat. 553", "96 U. S. 712"]
+cites_cases: ["226 U. S. 652", "23 P. R. R. 656", "24 C. C. A. 512", "33 Cal. 480", "79 Fed. 179"]
 ---
 
 # Banco Popular v. Wilcox
