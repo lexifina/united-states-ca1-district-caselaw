@@ -1,0 +1,24 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+decided: "1908-03-07"
+citations: ["3 P.R. Fed. 412"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES OF AMERICA v. POMPILIO FONDEUR ET AL."]
+source_url: "https://static.case.law/pr-fed/3/cases/0412-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6066344
+cites_cases: ["158 U. S. 564"]
+---
+
+# United States v. Fondeur
+
+## Majority (Rodey, Judge,)
+
+Rodey, Judge,
+delivered tbe following opinion:
+This is a bill in equity seeking to enjoin the respondents, their confederates, agents, etc., from exporting from the port of Mayaguez or any other port in the island of Porto Rico to any port in the Republic of Santo Domingo, a certain quantity t)f cartridges as in the complaint mentioned. The issue before us at tbis time is on the order to show cause why the temporary restraining order heretofore issued in the premises should not be continued until the final determination of the case.
+The facts, as developed by the affidavits and the evidence of the witnesses introduced on both sides at the hearing, are about as follows: The respondents, or some of them, procured to be shipped on one of the steamers of one of the regular lines plying between New York and San Juan, Porto Pico, twenty-eight cases of pistol or rifle cartridges, which arrived at San Juan on or about the 8th day of February, a. d. 1908. The cartridges were then, by the respondents or some of them, repacked and put into eight large cases at San Juan, and were, when thus repacked, shipped over the railroad to the port of Mayaguez as “ironand about four o’clock on the morning of February 11, 1908, the respondents, or some of them, after having previously received them from the express company, and secreted them in a building belonging to one of the respondents, who is a local distiller, near the wharf, attempted to load them upon a schooner that had previously come into the port of Mayaguez with a load of firewood. The cartridges were .attempted to be lightered out to the schooner at this early hour in the morning without any notice having been previously given to the customs authorities, or any person apparently knowing anything about it, save the respondents and their confederates. Evidently owing to information coming to the local government, from what source did not appear, watch was kept on the cartridges and the parties connected with them, from the time they arrived at San Juan until they were thus attempted to be loaded on the schooner, when the local policemen arrested the parties immediately connected therewith, and thereafter, from information later received, also arrested the other respondents. The parties were taken before a United States commissioner, bnt it was found difficult to find a statute under which to hold them, and they were discharged; but the customs, officials at once took charge of the cartridges for nonpayment of local excises or for some other cause that was not developed in the hearing.
+The United States, thereupon, through its district attorney for this island, filed its verified bill of complaint, and supported the same with additional affidavits, praying for a temporary restraining order, which was issued, as stated, and for an order to show cause, as stated, which was duly issued. On the hearing attention was called to the fact that Congress passed a joint resolution, approved April 22, 1898 (30 Stat. at L. 739, U. S. Comp. Stat. 1901, p. 2790), entitled: “Joint Eesolution to' Prohibit the Export of Coal or Other Material Used in War from Any Seaport of the United States.” And that thereunder the President, on the 14th of October, 1905 (34 Stat. at L-3183), issued a proclamation, prohibiting, without limitation or exception, the export of arms, ammunition, and munitions; of war of every kind from any port of the United States or Porto Eico to any port in the Dominican Eepublic, until otherwise ordered by the President or by Congress.
+Under this joint resolution and the proclamation of the President thereunder, on the evidence developed at this hearing, we are constrained to hold, and do hold, that it is contrary to law to so export the cartridges in question at the present time from any port in Porto Eico to any port in the Dominican Ee-public; and the restraining order will therefore be continued' until the final determination of the case. We are constrained to make this holding, even though there is no penalty provided for the violation of the joint resolution and proclamation mentioned, and because tbis is a civil suit for an injunction. We think we have power to do this under the authority of Re Debs, 158 U. S. 564, 39 L. ed. 1092, 15 Sup. Ct. Rep. 900. A proper order in the premises will therefore be prepared, entered, and enforced.
