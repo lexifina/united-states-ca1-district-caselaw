@@ -1,0 +1,30 @@
+---
+court: "United States District Court for the District of Massachusetts"
+docket: "4501"
+decided: "1983-08-02"
+citations: ["4 F. Supp. 340"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROSE v. UNITED STATES."]
+source_url: "https://static.case.law/f-supp/4/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4129797
+cites_cases: ["185 U. S. 308", "44 F.(2d) 317", "56 F.(2d) 572", "62 F.(2d) 118", "97 U. S. 628"]
+---
+
+# Rose v. United States
+
+## Majority (BREWSTER, District Judge.)
+
+BREWSTER, District Judge.
+This is a suit brought by the beneficiary to recover war risk insurance of $10,000, issued to Leon N. Carpenter, who enlisted in the Navy in 1917, and who, in April, 1918, was transferred to the U. S. S. Conyngham. He was last seen on December 6,1918. Since that date no trace of him has been discovered by his family, his friends, the officers of the Conyngham, or by any government official, although diligent and persistent search has been .made for him, aided by the facilities of the Red Cross. His policy’ of insurance lapsed for nonpayment of premium on January 31, 1919. In October, 1930, the mother of the insured, who, I find, was named as beneficiary in the policy, brought this proceeding, alleging that the insured died while the poliey was in force.
+That the insured is dead is to be presumed from the continued absence for over seven consecutive years, and the question presented is whether the facts of the ease warrant the conclusion that the death occurred on December 6,1918, when Carpenter disappeared.
+There is no dispute about the facts. Carpenter had been in the hahit of writing periodically to his mother, and had, with less frequency, corresponded with other relatives. He sent post cards from different places at frequent intervals. On December 1,1918, he wrote his mother that he would soon be home, and his letter showed that he was happy in the anticipation of joining his family and seeing his old friends again. This was the last word that was ever received from-him. On December 6, 1918, the Conyngham was anchored about one-half mile off shore near Queenstown, Ireland, and, according to the log of the ship, Carpenter, while ashore on duty, became intoxicated and returned aboard in that condition late in the afternoon. His conduct was such that it was decided to confine him in the forward hold. At 7 o’clock p. m. it was discovered that he had escaped, and a search of the vessel was made without results. The Conyngham was moored alongside the U. S. S. Milville, and this vessel and the patrol officer ashore were notified, but Carpenter was not found. The water front was searched the next day, and an order went out at once to all military personnel ashore in Ireland to be on the lookout for any one answering his description. He was a mulatto, and for that reason, in that locality, would have attracted notice. The water was cold, and there was a strong current to seaward, and any attempt to swim ashore would have been likely to have proved unsuccessful. There is no evidence that he was set ashore in any boat, and, if he had succeeded in reaching the Milville, he would have been found, and, if he had achieved the almost impossible feat of swimming to land,-in all probability he would have been apprehended. The evidence was that Carpenter was not a good swimmer.
+It is therefore clearly established that on the evening of December 6, 1918, Carpenter was not on either the Conyngham or the Mil-ville. The inference is inescapable that he either fell overboard or jumped overboard with an intention of swimming to land. He was not popular with the other members of the crew, and he may have been encouraged to undertake that avenue of escape.
+Immediately following his disappearanee, Carpenter was entered as a deserter, but later the Navy Department corrected this record by removing the mark of desertion and substituting an entry of “Disappeared from the U. S. S. Conyngham 6 December 1918 whereabouts unknown.” This correction seems to have been induced by a statement of the commanding officer of the Conyngham that it was his “firm opinion that after Carpenter left his compartment he either staggered and fell overboard or dove overboard with the intention of swimming ashore and was drowned.” The evidence admits of no other reasonable hypothesis, in my opinion.
+The case of Davie v. Briggs, 97 U. S. 628, 24 L. Ed. 1086, is regarded as á leading case supporting the proposition that, without proof that the person at the time of disappearanee was exposed to some specific peril or danger, there could be no inference drawn from his unexplained absence that his death occurred at any particular time. In the absence of such proof, he will be presumed to have lived until the end of the seven-year period which gives rise to the presumption of death. See McCune v. United. States (C. C. A.) 56 F.(2d) 572. United States v. Robertson (C. C. A.) 44 F.(2d) 317.
+In United States v. Hayman (C. C. A.) 62 F.(2d) 118, 120, the court said of Fidelity Mutual life Ins. Co. v. Mettler, 185 U. S. 308, 22 S. Ct. 662, 46 L. Ed. 922, that it was declared in that case “that the inference of death might arise from a disappearance inconsistent with the continuance of life even though exposure to particular peril is not shown.”
+I regard the facts in the ease at bar fully as favorable to the petitioner as were those appearing in United States v. Hayman, supra, where it was held that they satisfied both the earlier and the later more moderate rule. The opinion of Judge Hutcheson in the Hay-man Case appeals -to me as sound and one that can be accepted in the decision of the ease at bar.
+The circumstances surrounding the disappearance of Carpenter justify a finding that his death soon followed upon his leaving the ship, whether intentional or otherwise. Such a finding entitles the petitioner to recover upon the contract of insurance which was then in force.
+Judgment for the petitioner may be entered according to law.
