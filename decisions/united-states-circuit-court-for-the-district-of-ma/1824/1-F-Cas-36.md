@@ -1,0 +1,22 @@
+---
+court: "United States Circuit Court for the District of Massachusetts"
+decided: "1824-05"
+citations: ["1 F. Cas. 36", "3 Mason 331"]
+reporter: "f-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The ABIGAIL."]
+source_url: "https://static.case.law/f-cas/1/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6097440
+cites_cases: ["1 Stat. 500", "1 Stat. 678", "3 Stat. 433", "3 Stat. 604"]
+---
+
+# The Abigail
+
+## Majority (STORY, Circuit Justice.)
+
+STORY, Circuit Justice.
+The evidence in this case is so very uncertain, and in some respects so contradictory, that the question, whether the burthen of proof rests on the claimant to establish the origin of the coal, becomes in fact the turning point of the cause. The seventy-first section of the collection act of second of March, 1799, [Bioren & D. Laws, c. 128; 1 Stat. 678, c. 22,] declares that “in actions, suits, or informations to be brought, where any seizure shall be made pursuant to this act, if the property be claimed by any person, in every such case the onus probandi shall be upon such claimant; but the onus probandi shall lie on the claimant, only where probable cause is shown for such prosecution, to be judged of by the court before whom the prosecution is had.” The act of 15th of May, 1820, c. 122, [3 Stat. 604,] under which the present prosecution is instituted, declares, “that all penalties and forfeitures, incurred under this act, shall be sued for, recovered, distributed, and accounted for, and tlio same may be mitigated, or remitted, in the manner and according to the provisions of the act to which this is supplementary.” The act referred to is the act of 18th of April, 1818, [Story's Laws, c. 65; 3 Stat. 433, c. 70, § 4,] which declares, “that penalties and forfeitures incurred by force of this act shall be sued for, recovered, distributed, and accounted for, and may be mitigated or remitted, in the manner and according to the provisions of the revenue laws of the United States.” The act of 1799, c. 128, is certainly a revenue act within the meaning of this clause; and no one denies, that here there was probable cause of seizure; and therefore the time question, arising on the act of 1820, is, whether it adopts, by reference and intendment, the provision of the seventy-first section of the act of 1799, c. 128. If there were no other provisions in this act applicable to the subject matter, it might be difficult to satisfv the exigency of the language in any other manner. But the eigivty-nintli section oí the act of 1799 provides, in the fullest manner, for the mode of suing for, and recovering. penalties and forfeitures under the act; and, in like manner, the 91st section provides for the distribution of, and accounting for, such penalties and forfeitures. The act ■of 1797 [Bioren & D. c. 67; 1 Stat. 500, c. 13] provides for the mode of remitting and mitigating such penalties and forfeitures. So that, independently of the 71st section of the act of 1799, the references in the acts of ISIS and 1820 are completely satisfied in their terms, viz., as to the mode of suing for, recovering, distributing, accounting for, mitigating, and remitting i>eualties and forfeitures.
+After bestowing considerable attention to the. subject, my mind has at last arrived at the conclusion, that under such circumstances the 71st section ought not to be construed to be adopted by implication. The mode of suing for and recovering penalties and forfeitures does not necessarily include any rales as to the adoption or rejection of •evidence, or as to the onus probandi. There is some hardship in extending a rule of this nature beyond the general principles, on which the law of evidence is founded. It may, nay it often must, have the effect of superinducing a forfeiture. The present case exemplifies the justice of this remark. Feeling, therefore, a strong impression, that the court ought not to change the rules of evidence, as to the burthen of proof, without a clear expression of the legislative intention. and perceiving in the present case no ■such expression, I believe, that my duty is best performed by adhering to the doctrine of the common law. I shall therefore acquit tile property seized, upon the ground, that the onus probandi is on the government, and that the evidence leaves the point of the origin of the coal in a state too uncertain and equivocal to found any decree of condemnation.
+Decree accordingly.
