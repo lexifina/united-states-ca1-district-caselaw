@@ -1,0 +1,29 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "1133"
+decided: "1916-12-13"
+citations: ["9 P.R. Fed. 264"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEDRO LOPEZ IN REPRESENTATION OF HIS MINOR SON, ARMANDO LOPEZ, Plff., v. AMERICAN RAILROAD COMPANY OF PORTO RICO, Dft."]
+source_url: "https://static.case.law/pr-fed/9/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12112694
+cites_cases: ["100 Ala. 365", "114 U. S. 615", "13 So. 944", "3 L.R.A. (N.S.) 391", "42 L.R.A.(N.S.) 158", "47 L.R.A. 301", "95 U. S. 697"]
+---
+
+# Lopez v. American Railroad
+
+## Majority (HamiltoN, Judge,)
+
+HamiltoN, Judge,
+delivered tbe following opinion:
+At tbe time of tbe adjournment of court yesterday a motion was pending to direct an involuntary nonsuit because, under tbe evidence in this case, it is apparent that tbe evidence of tbe plaintiff bimself is of sucb a character as to demonstrate contributory negligence, and that no proper damages bave been proved.
+It is always my preference to let a case go to tbe jury so as to let tbe responsibility of decision on a matter of fact rest upon tbe jury. There are, however, certain cases provided by law that make it tbe duty of tbe court, and not of tbe jury, to pass upon sucb cases; and I would bave no more right to refuse to do what is incumbent upon me, than tbe jury would bave to refuse to do what is incumbent upon them.
+In this particular case I will eliminate tbe part of tbe motion which refers to damages. I am not at all sure that that part is well taken. There seems to me to be enough as to damages for tbe jury to consider, that is, as to whether they exceeded $1,000 or not.
+Tbe first point is of a different character, and that I think I bave to consider. Tbe evidence of tbe plaintiff in this ease, as I understand it, — and this motion was made at tbe close of tbe plaintiff’s case, — is that be was on a mortorcycle going towards a railroad track. He bad lived in this vicinity a long time and knew that there was a railroad there. He was not certain whether the train bad passed or not. He bad been going at tbe rate of about 30 miles an hour, and about 300 feet from tbe railroad track be slowed down to'10 or 12 miles an hour and did make an attempt to listen and to look, but it is perfectly clear from Ms evidence that be did not stop. He did not bear anything, whether or not because of the noise of his motorcycle, and he went on. He and the train got to the crossing at the same time. In point of fact he ran into the train, that is to say, the engine had passed and it was the tender with which he came in collision. Now, under those facts it is also true, — I do not know what' might be proved later, — but there is no evidence that the engineer blew his whistle except at the station a few minutes before when he left, or a few seconds before, perhaps, when he was leaving. There is no evidence that he blew the whistle or rang the bell for this crossing.
+The question comes up, What is the duty of the court under this state of facts ? If this establishes contributory negligence, it is the duty of the court to take the case from the jury; that is to say, there would be nothing to go to the jury. It would be a matter for the court, and not for the jury. Upon the facts above stated it would seem that there was negligence on both sides; that is to say, that the railroad did not observe its statutory duty of blowing the whistle, and that the plaintiff did not observe his common-sense duty of stopping. And the law as laid down in Chicago, R. I. & P. Co. v. Houston, 95 U. S. 697, 24 L. ed. 542; Schofield v. Chicago, M. & St. P. R. Co. 114 U. S. 615, 29 L. ed. 224, 5 Sup. Ct. Rep. 1125; and Louisville & N. R. Co. v. Richards, 100 Ala. 365, 13 So. 944, 11 Am. Neg. Gas. 105, and elsewhere, is that the failure of the railroad company to observe the signals or to make the signals would not exempt the plaintiff from his duty to stop, look, and listen. That being so, it is my opinion that the plaintiff was guilty of contributory negligence, and therefore, it is not a question for the jury. If we went on with the case, I should have to ■set aside a verdict if a verdict was rendered for the plaintiff.
+There are certain cases in which a traveler has a right to assume that he can make the crossing. Elliott, Railroads, § 1161. This cannot be, however, when the- traveler is himself at fault in not taking proper precautions. The principle of stop, look, and listen is now so general that it may be considered a part of railroad law. This is true in the United States, and no reason is perceived why it should not be true in a territory of the United States. While Porto Rican railroads from the necessity of the case cannot connect with those of other states or territories, this court should follow the principles which obtain in other Federal courts where interstate commerce has become of such importance as almost to create a Federal practice as to negligence.
+This motion is granted under the principles found in 38 Oyc. 155 et seq., and also in rule 52 of this court, giving the defendant at the close of the plaintiff’s evidence the choice of direction of verdict, motion for a nonsuit, and striking out plaintiff’s evidence. He has elected the involuntary nonsuit, and the motion is granted in that form.
+Gentlemen of the jury, under the state of the case as now presented, the duty is incumbent, as I said just now, upon the court, and not upon the jury. All the responsibility is upon the court. I have directed the clerk to enter an involuntary nonsuit. That being so, there is nothing further for you to consider, and you are discharged from this particular case, and' you will please retire to the body of the house.
