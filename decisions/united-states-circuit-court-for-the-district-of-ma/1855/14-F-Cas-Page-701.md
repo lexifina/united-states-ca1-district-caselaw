@@ -1,10 +1,12 @@
 ---
 court: "United States Circuit Court for the District of Massachusetts"
 decided: "1855"
+decided_precision: "year"
 citations: ["14 F. Cas. Page 701"]
 reporter: "f-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+text_source: "CAP head matter (CAP holds no opinion text)"
 parties: ["KITTLE v. SCHNEIDER."]
 source_url: "https://static.case.law/f-cas/14/cases/0701-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
@@ -14,4 +16,10 @@ cites_cases: ["30 Fed. 690"]
 
 # Kittle v. Schneider
 
+## CAP head matter
 
+*CAP holds no separate opinion text for this decision: the text below is its head matter as CAP gives it, which may hold the court's opinion or order together with the publisher's syllabus, headnotes and counsel.*
+
+Case No. 7,857a.
+KITTLE v. SCHNEIDER.
+[See 30 Fed. 690.]
