@@ -1,0 +1,26 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "918"
+decided: "1914-03-09"
+citations: ["6 P.R. Fed. 583"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ABELARDO MARTINEZ v. THE PAUL TAYLOR BROWN COMPANY"]
+source_url: "https://static.case.law/pr-fed/6/cases/0583-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6066712
+---
+
+# Martinez v. Paul Taylor Brown Co.
+
+## Majority (HAMILTON, Judge,)
+
+HAMILTON, Judge,
+delivered the following opinion:
+On the first motion for a new trial, several grounds were urged. None of them seemed convincing, but one of them was that Eexach had changed front in the face of the jury, that he was called by one side and testified for the other, and that thereupon the defendant impeached Eexach, its own witness. It did not occur to me at the time that this state of facts could influence the result. Since then has come the criminal trial, where there has been testimony, not by Eexach, but that Eexach had said — and he did not go on the stand to contradict it — that he had been promised money by the plaintiff and by the plaintiff’s attorney, and the inference seemed to be that it was because the money had not been paid that Eexach turned around another time.
+These facts have now been presented in open court on a motion for a new trial in a case where the attorney for the plaintiff was attorney for defendant Eexach in the criminal case. The statements, so far as I know, have not been explained. Possibly it is unnecessary to explain them, but they were made in open court. It might be impossible to explain them.
+That brings before the Court this state of facts: Here is a verdict rendered for the plaintiff in a certain case and part of the testimony that might well have been considered material by the jury — the court cannot tell — is the testimony of this man Eexach. He was not convicted of perjury, and the court will have to try him again, and so cannot assume that he is guilty. Tbe court would not care to go on record as saying tbat it believes a defendant is a perjurer. It would bave no right at all to do it. A man wbo bas not been proved guilty made these statements as to his own attorney and tbat attorney’s other client, and here is a verdict rendered in the civil case under this state of facts. Now it is not necessary that the court believe any reflection at all upon the attorney. The fact nevertheless is that the reflection has been made, coming from this attorneys’ own client. Such is the state of the record at present. It looks to the court as if it is a case calling for the exercise of its discretion in the way of having the whole matter threshed out again, having what is improper excluded,' and what is proper testimony in all this contradicted or explained; so that a verdict will be rendered one way or the other on the facts put in proper shape.
+This does not involve in the slightest any change of the court’s view as to the law of the civil case. If the facts brought out on the new trial are not materially different from those at the last, it seems to the court that the charge would have to be exactly the same as at the last trial. This application for new trial has nothing to do with the law of the case. The question is as to certain facts and certain witnesses which were before the jury, and which may or may not have influenced the jury.
+To use an expression which is not exactly technical, the matter has left a bad taste; and the court does not like that state of affairs. Of course, on the other hand, as to the matter of jurisdiction, if a new trial was refused, and it is now too late to re-examine the case, that is a matter of law, and the court would have no jurisdiction at all.
+I have no objection to an investigation if any attorney of this court wishes any matter investigated. I know well enough how an attorney feels if a charge — I assume, of course, an unfounded charge — is made against him. It is like being in possession of land with a bad title, and having no method of quieting the title, — and even worse, because reputation is everything with an attorney. If any attorney wishes an investigation, I will devise some means to- have one. In the absence of something that convinces 'me that the attorney has committed wrong, I do not think that I would be called upon to initiate any proceedings, because some criticism might be made in almost any case, and I do not think that would be right. The grand jury is to look after the criminal side. I have nothing to do with them except to instruct them on the law. The court, however, is like one family, and I will be glad to take any steps a lawyer wants taken as to himself; but from my own personal opinion of this case I do not care to direct any investigation. I do not believe the charge, but what I believe is not the point. It is what was the possible effect .upon the jury, whether I believe it or not. I want this court clear of any imputation upon its verdicts. I would rather err on the safe side, never beyond my jurisdiction, but, within those limits, I wish to keep this court like Caesar’s wife, above suspicion.
