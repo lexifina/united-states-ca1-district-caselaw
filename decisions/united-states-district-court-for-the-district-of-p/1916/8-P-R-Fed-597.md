@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Puerto Rico"
 docket: "1127"
 decided: "1916-05-10"
-citations: ["8 P.R. Fed. 597", "8 P.R. Fed. 601"]
+citations: ["8 P.R. Fed. 597"]
 reporter: "pr-fed"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,6 @@ parties: ["ADDIE M. BACON v. CHARLES H. MARKS."]
 source_url: "https://static.case.law/pr-fed/8/cases/0597-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12114246
-cites_cases: ["12 So. 382", "7 P. R. R. 551", "97 Ala. 596"]
 ---
 
 # Bacon v. Marks
