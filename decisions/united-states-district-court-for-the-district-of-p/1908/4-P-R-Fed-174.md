@@ -1,0 +1,25 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+decided: "1908-05-21"
+citations: ["4 P.R. Fed. 174"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN RE THE APPLICATION OF JOSEPH ARCHINARD for a Writ of Habeas Corpus Directed to His Wife, Marcel Celina, for the Possession of His Two Children, Marcel and Paul Archinard."]
+source_url: "https://static.case.law/pr-fed/4/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6066025
+cites_cases: ["115 U. S. 487", "136 U. S. 586", "175 U. S. 162", "177 U. S. 378", "200 U. S. 293", "203 U. S. 429", "204 U. S. 72", "205 U. S. 179", "209 U. S. 283", "27 Sup. Ct. Rep. 224"]
+---
+
+# In re Archinard
+
+## Majority (Rodey, Judge,)
+
+Rodey, Judge,
+delivered the following opinion:
+Joseph Archinard and his wife, Marcel Celina Archinard,. are citizens of, and are domiciled in, the Republic of France,, and are both only temporarily in the island of Porto Rico. The parties, while still residing in France, became estranged. She came here several months since, bringing her two minor-children with her. The father and husband recently followed her, and, after taking other steps in the lower courts, finally,. because of tbe absence of tbe local insular district judge at Ponce, applied to an associate justice of the - supreme court of tbe island for a writ of babeas corpus to get possession of his children, who were alleged to be in the custody of bis said wife. Tbe associate justice to whom the application was made ordered tbe insular district judge of Mayaguez to issue tbe writ. The wife, before tbe time bad elapsed for her to answer tbe writ, appeared in that court by counsel, and, on tendering a proper petition in that behalf and a bond in the premises, requested and obtained an order removing tbe canse to this court.
+Tbe petitioner thereupon by counsel at once moved in this court to have the cause remanded for lack of jurisdiction, for tbe reasons that a court such as this is has no jurisdiction in or about tbe settling of tbe right to tbe possession of children between parents or others, and because the proceeding is not a suit between parties in the sense contemplated by any law of tbe United States giving this court jurisdiction, and, further, because no money value amounting to a thousand dollars, exclusive of interest or costs, is involved in tbe proceeding.
+Before proceeding further with the cause, a hearing was had, when arguments were made by counsel for the respective parties on the issues as to our jurisdiction thus raised.
+We took the matter under advisement over the evening adjournment, during which time we exaniined many adjudicated cases, particularly Kurtz v. Moffitt, 115 U. S. 487, 29 L. ed. 458, 6 Sup. Ct. Rep. 148; Re Burrus, 136 U. S. 586, 34 L. ed. 500, 10 Sup. Ct. Rep. 850, and its note in Re Barry; Simms v. Simms, 175 U. S. 162, 44 L. ed. 115, 20 Sup. Ct. Rep. 58; Ex parte Baez, 177 U. S. 378, 44 L. ed. 813, 20 Sup. Ct. Rep. 673; Carfer v. Caldwell, 200 U. S. 293, 50 L. ed. 488, 26 Sup. Ct. Rep. 264; New York Foundling Hospital v. Gatti, 203 U. S. 429, 51 L. ed. 254, 27 Sup. Ct. Rep. 53; and Urquhart v. Brown, 205 U. S. 179, 51 L. ed. 760, 27 Sup. Ct. Rep. 459; and we are constrained to agree with the contention of counsel for the petitioner that this court is entirely without jurisdiction on all of the grounds urged by him. The case of Be Burrus, with its note, which latter is the opinion of Betts, J., in the circuit court of the United States for the southern district of New York, taken as a whole, is, in and of itself, an elaborate treatise on the questions that are here before us, and a reading of it leaves no doubt in our mind that, notwithstanding the language used in the Simms Case, supra, and other cases, and notwithstanding § 3 of the act of Congress of March 2, 1901 (31 Stat. at L. 953, chap. 812), enlarging the jurisdiction of this court, and notwithstanding the language used in the case of Garrozi v. Dastas, 204 U. S. 72, 51 L. ed. 376, 27 Sup. Ct. Rep. 224, and Garzot v. Rios de Rubio, 209 U. S. 283, 52 L. ed. 794, 28 Sup. Ct. Rep. 548, that still it cannot be contended that the jurisdiction of this court is broad enough to include the proceeding now before us. All of these cases and others settle it as the law, that the district and circuit courts of the United States have no jurisdiction over matters regarding the custody of children between their parents, even though such parents are foreigners, as is the case here, and we cannot see that this court is in any better position. As in probate matters, so in matters involving questions of parens pairice, state courts alone, and, of course, the insular courts here, have exclusive jurisdiction, even if, as to other matters, the removal of a proceeding under a writ of habeas corpus could be requested to this court because of the diverse citizenship of the parties, which we deny.
+Tbe proceeding will therefore be remanded to the insular court, and it is so ordered.
