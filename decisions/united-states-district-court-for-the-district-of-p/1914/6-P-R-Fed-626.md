@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Puerto Rico"
 docket: "553"
 decided: "1914-03-25"
-citations: ["6 P.R. Fed. 626", "6 P.R. Fed. 622"]
+citations: ["6 P.R. Fed. 626"]
 reporter: "pr-fed"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["UNITED STATES v. MANUEL CERECEDO ET AL."]
 source_url: "https://static.case.law/pr-fed/6/cases/0626-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6066762
-cites_cases: ["1 Cow. 445", "13 Sup. Ct. Rep. 859", "149 U. S. 207", "190 Fed. 414", "225 U. S. 347", "34 Fed. 719", "7 Am. Neg. Cas. 591", "93 U. S. 234"]
+cites_cases: ["1 Cow. 445", "190 Fed. 414", "225 U. S. 347"]
 ---
 
 # United States v. Cerecedo
