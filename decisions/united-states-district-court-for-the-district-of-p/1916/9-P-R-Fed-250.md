@@ -1,0 +1,22 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "175"
+decided: "1916"
+citations: ["9 P.R. Fed. 250"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KORBER & COMPANY v. ANNIBAL GUERINI."]
+source_url: "https://static.case.law/pr-fed/9/cases/0250-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12112601
+---
+
+# Korber v. Guerini
+
+## Majority (Hamilton, Judge,)
+
+Hamilton, Judge,
+delivered the following opinion:
+In this case it seems that the petition in bankruptcy was filed July 12th, and the same day and subsequently there were proceedings for an injunction to the Treasurer or other authority of the people of Porto Rico not to pay over certain money. On the 24th this injunction order was entered. Up to that time everything was before the judge of this court, the district court, properly speaking. On August 22d came the order of adjudication in bankruptcy and a reference of the case to Referee Rafael Martinez Alvarez. On October 18th schedules were filed. This motion for this decree was made November 27th. How to-day, December 6th, is an intervening petition of Pedro Schira.
+The merits of the case are that certain money has been tied up in the hands of the government, which Schira claims as belonging to him or on which he has a lien or some other claim. The preliminary question is as to the state of the case, where it belongs, whether I have anything to do with it now. Up to August 22d I made all the orders in the ease. On August 22d I referred the case to the referee. I think there is a misapprehension as to the functions of the judge and the referee. The Bankruptcy Law expressly says that the court in bankruptcy cases after the reference is the referee, and my understanding and my practice has been to hold — there may be some extraordinary exception which does not occur to me right now — that, after the reference to the referee, the judge has nothing to do with the ease except upon a petition for review by a creditor who thinks himself injured or a-certificate of doubt or for instructions of the referee himself, and finally the order of discharge. We Rave entered the last npon our minutes here so as to have the record complete. Those are the only three eases that I know of where this court has anything to do with a pending bankruptcy case. So, it seems to me that I cannot grant this petition that is made here for an order directing delivery of assets to the trustee herein. Not a month passes that something does not come up before me, on appeal or otherwise, from some referee where he has ordered debtors to pay over funds to a trustee, but I do not think that in any sense of the word the judge of this court sits with ancillary jurisdiction to help out the handling of the estate except by review. I think the whole thing is in the hands of the referee. The result of that would be that' I think I shall refuse this petition, but refuse it without prejudice. I do not think I have anything to do with it. As a result of that, this petition of Schira would, so far as I am concerned, fall with the proceeding in which it is filed. That is to say, it is filed in connection with the petition for an order directing delivery of assets enjoined to the trustee. That petition is refused without prejudice, so it seems to me that I cannot have anything to do with this incidental petition of Schira. If there is any exceptional situation where this court co.uld take jurisdiction for any purpose, of course that could be presented by a separate petition. Offhand I do not think there is any such case. It would simply be deciding an academic question as to how Schira could get at the fund. I simply refuse the petition asking for this order. The whole matter is in the hands of the referee, and the referee is the court, and if there is any order of that kind or any other kind it must be by the referee; and if either party thinks himself aggrieved he may appeal it; that is, file a petition for review. I am not saying that Schira bas no recourse before me. I do not pass on tbat. I do not think he has any recourse before me in connection with the trustee’s petition. Both petitions then are refused. Incidentally let me say that if this court were to pass on the question and the referee were to pass on it, there would be a 'confusion in administration which I think ought to be avoided.
