@@ -1,0 +1,31 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "937"
+decided: "1914-07-23"
+citations: ["7 P.R. Fed. 235"]
+reporter: "pr-fed"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARÍA LEONOR SANTIAGO ET AL. v. MIGUEL ROSES ET AL."]
+source_url: "https://static.case.law/pr-fed/7/cases/0235-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12112907
+cites_cases: ["209 U. S. 283"]
+---
+
+# Santiago v. Roses
+
+## Majority (Hamilton, Judge,)
+
+Hamilton, Judge,
+delivered the following opinion:
+The hill in this cause is to- set aside a certain deed hy which defendants acquired certain lands. The transaction was somewhat as follows: Manuel Antonio de Santiago owed the firm of Koses & Company a sum of money, and after his death, his heirs, in 1890, appointed one Delgado attorney in fact for estate matters. This attorney made a mortgage.in 1891 to Koses & Company for the alleged debt. The debt was not paid, and in 1892 there was a foreclosure instituted, and in 1897 a certain portion of the property was hy legal proceedings turned over to Koses & Company under the deed now attacked, in satisfaction of the balance due on the debt. The suit at bar was filed in 1913.
+1. The procedure under which these steps were taken was different from that now in force, and was under the law of civil procedure promulgated hy decree of September 25, 1885. In Title XV. this provided rules of procedure for the recovery of debts evidenced hy public documents and the like, and was attempted to be followed in this case. Such a mortgage must be constituted by a public notarial deed and inscribed in the registry in accordance with art. 1875 of the Spanish Civil Code. The procedure was under what was called executory proceedings until the mortgage law was adopted in 1894, which, by art. 128, provided for the method now in force.
+2. This is a proceeding to set aside a deed because of fraud. The Civil Code, as well as the principles of equity, always presumes good faith. Its contrary has to be shown by the party alleging it. The fact that defendants in this case were wealthy people and the complainants poor people, if it be a fact, does not have any bearing upon this principie. Good faith therefore is presumed in this case, as in all others, until the contrary is proved.
+3. A prerequisite to any judicial investigation is that the-parties complaining have the right to complain. In this case-are the parties complainant shown to he the heirs or representatives of the persons injured ? There does not as to some of them seem to be the formal proceedings required under the local law establishing the death of the intestate and that those claming to be the heirs are the only ones entitled to the inheritance. Aran v. Fritze, 3 Porto Rico Fed. Rep. 509; Garzot v. Rios de-Rubio, 209 U. S. 283, 52 L. ed. 794, 28 Sup. Ct. Rep. 548. It is perhaps unnecessary, however, to go into this point fully on-account of the view taken of other aspects of the case.
+4. The fraud alleged relates to several alleged defects in the-proceedings by which the title became vested, and the first is that one of the parties was dead at the time that the attorney Delgado executed the mortgage in question. Under the local, as under the common, law, death is a revocation of an ordinary power of attorney, but under § 1640 of the Civil Code it is provided: “What has been done by the agent, when he-was not aware of the death of the principal, or of any other of the causes which terminate the agency, shall be valid and of' effect with regard to third persons who may have contracted with the agent in good faith.” After this length of time there-would be no presumption' against the instrument, and the party alleging invalidity must prove it. There is nothing in the evidence to show that the agent was aware of the death of' the principal.
+5. It is also alleged that the mortgage had been paid at the-time of the foreclosure in 1892. The most that the evidence shows, however, is that there had been payments made upon the debt and that there was a balance due at that time. This is-admitted by the defendants. This and other questions could have been raised by the complainants in the foreclosure proceeding. It was originally contended by the complainants that they had no notice of this proceeding. It was shown that the papers-in the case had disappeared, but it so happened that a copy was-in the hands of the defendants, Roses & Company, and was produced and admitted upon the trial. This seems to show that the complainants were notified, and so in the eye of the law had their day in court. While there are some matters-which .cannot be brought up in such foreclosure proceedings, many going to the root of the indebtedness may be. In this-case there was no such defense made, although the parties, were in court.
+6. It is further set up that the proceeding in 1891 hy which part of the land was adjudicated to Roses & Company was-void. Under the provisions of law governing the case, however, this is not satisfactorily shown. There may have been in-formalities in this as in the other steps, but nothing rendering-the proceeding void.
+7. It would appear that if there were any such defects as> are set up, they are now barred by prescription. Under § 1268 of the present Civil Code (1301 of the Spanish Civil Code),, it is provided that an action for nullity has a prescription of four years, commencing, in the case of deceit, from the date of' the consummation of the contract. This time has long since-run. If this does not apply, it would seem that certainly art. 1858 of the Civil Code (1957 of the old Code) would cover 'the case. That is to say, ten years as to persons present, and twenty years with regard to those absent, with good faith and a proper title.
+Upon the whole, the court is not at all satisfied that the facts show any fraud. And, furthermore, the claim has prescribed. When the matter of good faith is involved the presumption is in favor of possession, and it is to the interest of the public that claims be prosecuted promptly.
+It follows that the bill must.be dismissed.
