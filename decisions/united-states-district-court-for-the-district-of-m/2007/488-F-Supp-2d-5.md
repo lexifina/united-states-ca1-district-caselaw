@@ -1,0 +1,63 @@
+---
+court: "United States District Court for the District of Massachusetts"
+docket: "Civil Action No. 06-12159-JLT"
+decided: "2007-06-06"
+citations: ["488 F. Supp. 2d 5"]
+reporter: "f-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BARR INCORPORATED, Plaintiff, v. TOWN OF FALMOUTH and J.K. Scanlan Company, Inc., Defendants."]
+source_url: "https://static.case.law/f-supp-2d/488/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3091470
+cites_cases: ["160 F.3d 67", "178 F.Supp.2d 47", "251 F.3d 1", "28 Mass.App.Ct. 100", "391 Mass. 829", "430 Mass. 124", "446 F.2d 225", "465 N.E.2d 1173", "546 N.E.2d 898", "71 F.3d 1", "713 N.E.2d 955"]
+---
+
+# Barr Inc. v. Town of Falmouth
+
+## Majority (TAURO, District Judge.)
+
+MEMORANDUM
+TAURO, District Judge.
+Background
+On December 1, 2006, Plaintiff Barr Incorporated, a Connecticut corporation based in Connecticut, filed a Complaint in this court alleging that Plaintiff was the lowest bidder for a contract to build a new Falmouth Public Library. Defendant Town of Falmouth (“Falmouth”), a Massachusetts town, rejected Plaintiffs bid, after determining Plaintiff was not a responsible bidder. Defendant Falmouth instead awarded the construction contract to Defendant J.K. Scanlan Co., Inc. (“Scanlan”), a Massachusetts company based in Massachusetts. Plaintiff alleges that in finding Plaintiff not to be a responsible bidder, Defendant Falmouth did not conclude that Plaintiff was unsound financially or incompetent, but rather relied on allegations that Plaintiff had taken extra time on other projects, even though Plaintiff adequately explained those delays. Plaintiff alleges Falmouth acted arbitrarily and capriciously by considering improper and incorrect information, failing to conduct a full investigation, and refusing to accept Plaintiffs responses to Falmouth’s inquiries.
+Plaintiff requested emergency injunctive relief, seeking an order to prevent Defendants from signing a contract for the Library construction project. Plaintiff argued that as it alleged only arbitrary and capricious conduct, its damages would be limited to bid preparation costs should it prevail after a contract was executed. Plaintiff contended this reduction in damages constituted irreparable harm. This court held a hearing the day the Complaint was filed and denied injunctive relief. Plaintiff appealed. On December 4, 2006, the First Circuit declined to issue injunc-tive relief. Defendants then executed the contract and filed answers in this case, denying any arbitrary or capricious action. On February 2, 2007, the First Circuit dismissed the appeal as moot. Defendant Scanlan now moves to dismiss the case for mootness. Defendant Falmouth also moves to dismiss, alleging a lack of standing and a lack of jurisdiction.
+In response, Plaintiff moves to amend its Complaint, seeking monetary damages instead of an injunction. Plaintiff seeks lost profits and/or bid preparation costs. Plaintiff has declared that its bid preparation costs were $16,400. The court now considers these motions.
+Discussion
+Claims against Defendant Scanlan
+Plaintiff correctly named Scanlan as a Defendant to the initial Complaint requesting that this court enjoin Falmouth and Scanlan from entering a contract. The original complaint is now moot. The proposed amended complaint seeks damages for the town’s alleged arbitrary and capricious actions. But it literally does not state a claim against Defendant Scanlan. No identified cause of action would obligate the second lowest bidder to pay the Plaintiffs lost profits or bid preparation costs. Defendant Scanlan’s Motion to Dismiss is ALLOWED.
+At oral argument, Plaintiff objected to this result only on the ground that it intends to seek leave to file a second amended complaint asserting that the contract is void. Plaintiff advanced some case law to support this proposition. But this issue is not before the court in any motion and has not been briefed. The proper action at this point is to dismiss Defendant Scanlan. Should Plaintiff seek leave to further amend its Complaint, the court will consider the issue once it is fully briefed. Accordingly, Defendant Scanlan is DISMISSED from this case WITHOUT PREJUDICE.
+Standing
+In its own Motion to Dismiss, Defendant Falmouth contends that Plaintiff lacks standing to challenge Falmouth’s discretionary determination that Plaintiff was not a responsible bidder. The Massachusetts courts apply a very low standing threshold to claims of this sort, and Plaintiff need not even show “but-for” causation. Defendant Falmouth argues that Plaintiffs complaint does not challenge the procedures used, but rather simply the discretionary decision. Defendant analogizes this case to cases where courts refuse to review prosecutorial discretion. This analogy is not persuasive. Plaintiff has alleged that Defendant Falmouth arbitrarily considered improper factors and refused to credit certain evidence. In this way, Plaintiff is not simply attacking the result of the bidding process, but is alleging that the process itself was flawed. Such an allegation presents a justiciable situation as Plaintiff alleges it was harmed by this arbitrary process.
+Available Damages
+The next question presented, by both Defendant Falmouth’s Motion to Dismiss, and Plaintiffs Motion to Amend, is the question of whether Plaintiffs claim for monetary damages is limited to bid preparation costs. Massachusetts law holds that as Plaintiff alleges only arbitrary and capricious conduct, Plaintiff can only collect bid production costs.
+Despite this law, Plaintiff argues that it should be able to recover lost profits pursuant to law of the case doctrine or estop-pel. When moving for a preliminary in-junctive relief, Plaintiff argued that it would suffer irreparable harm if an injunction did not issue because it would be limited to bid preparation costs if a contract was signed. Defendant Scanlan opposed the irreparable harm argument, and the court ultimately denied injunctive relief. Plaintiff insists that the law of the case compels this court to allow an award of loss profits, and that estoppel prevents Defendants from arguing otherwise.
+The record of the hearing does not support this conclusion. The court engaged in a colloquy with Plaintiffs counsel and Defendant Scanlan’s counsel, regarding Plaintiffs contention it would suffer irreparable harm. Defendant Scanlan did not argue that Plaintiff could recover lost profits in a case alleging arbitrary and capricious action, but instead argued that Plaintiff had not been clear about whether it was claiming bad faith or simple arbitrary and capriciousness.
+Defendant Scanlan also argued in-junctive relief should be denied based on a lack of showing by Plaintiff that it had a likelihood of success on the merits or that the equities favored an injunction. The court ultimately denied the motion for injunction without opinion. Plaintiff asserts that the court disagreed with its argument that it would be limited to bid preparation costs, but the court never explicitly so ruled. Instead, the court concluded that the balance of the relevant factors did not warrant preliminary injunctive relief. Neither the law of the case doctrine nor principles of estoppel preclude this court from applying clear state law that limits Plaintiff to bid preparation costs.
+Motion to Amend
+Plaintiffs initial complaint has been superceded by events of this litigation. Plaintiffs initial complaint simply sought injunctive relief. The First Circuit has ruled that the injunctive relief sought is mooted by the signing of the contract. Plaintiff now seeks to recover lost profits and bid preparation costs.
+Defendants have filed responsive pleadings. Plaintiff may not, therefore, amend as of right, but leave to amend should be granted where justice so requires. As described above, Plaintiffs lost profit claim is futile. The court may deny an amendment to plead a futile claim.
+The changing factual circumstances do, however, require allowing Plaintiff to update his complaint to seek bid preparation costs instead of the now-moot injunc-tive relief. Accordingly, Plaintiffs Motion to Amend is ALLOWED IN PART AND DENIED IN PART, in that Plaintiff may file an Amended Complaint as proposed, except that Plaintiff cannot seek lost profits. Plaintiff shall file the amended complaint within seven days.
+At oral arguments, Plaintiff also suggested it intended to plead that Defendant Scanlan and Falmouth’s contract is void as a matter of law. Such a proposed amendment has not been briefed, and is not authorized at this time. Should Plaintiff wish to further amend its Complaint, he shall file a Motion for Leave to File a Second Amended Complaint by June 29, 2007.
+Subject Matter Jurisdiction
+The Amended Complaint that the court has just authorized will seek bid preparation costs, which Plaintiff calculates at $16,400. As this case is before the court on diversity jurisdiction, Defendant argues that the amount in controversy requirement is not met, and the case should be dismissed.
+But the amount in controversy must be assessed at the time of filing of the complaint. When the initial complaint was filed, Plaintiff sought injunctive relief limiting the award of a six million dollar contract. No party disputes that diversity jurisdiction was proper at that point. Events subsequent to the filing of a suit cannot divest the court of subject matter jurisdiction. For example, the Eighth Circuit allowed a second claim that would not meet the amount in controversy requirement to remain in federal court after a first claim was found moot. Like in that case, one lesser claim survives here after a first claim is mooted. Unlike that case, Plaintiff did not plead its second claim in their first complaint, but rather, now seeks to amend its Complaint to include that claim. Plaintiffs amendment, however, still presents the same underlying nucleus of operative fact. Plaintiff is still complaining about an allegedly arbitrary and capricious bidding process. A subsequent event, the signing of a contract between Defendants, has simply required Plaintiff to change its prayer for damages. This subsequent event does not divest the court of jurisdiction.
+One court in this district has found that the amount in controversy requirement is not met when a Plaintiff replaces an earlier complaint with a new complaint which does not meet the amount in controversy requirement. Though this reasoning has some appeal, the court declines to adopt this position, as it is contrary to the established rule that events subsequent to the filing of a suit cannot divest the court of jurisdiction. While it is unusual for a case to go forward in federal court under diversity jurisdiction with an amount in controversy below the threshold of $75,000, the case cannot be dismissed as jurisdiction was proper when Plaintiff initiated the suit. Defendant Falmouth’s Motion to Dismiss for Lack of Jurisdiction is DENIED.
+Conclusion
+Although Plaintiffs claim for injunctive relief is now moot, Plaintiff may amend its claim to seek money damages, limited to bid preparation costs as the law requires. This claim for costs does not involve Defendant Scanlan, who is dismissed without prejudice. Although the amount in controversy requirement is no longer met, Plaintiff properly invoked the jurisdiction of the federal court with its original complaint, and the court will hear the case, as amended. An order will issue.
+. Plaintiff’s 26(b)(1) Sworn Statement, Paper # 24-2.
+. John T. Callahan & Sons v. City of Malden, 430 Mass. 124, 713 N.E.2d 955, 959 (1999) (quoting Modern Cont'l Constr. Co. v. Lowell, 391 Mass. 829, 465 N.E.2d 1173, 1177 (1984))
+. Peabody Constr. Co. v. Boston, 28 Mass.App.Ct. 100, 546 N.E.2d 898, 902 (1989) ("[I]n the absence of bad faith, a bidder wrongfully deprived of a contract may recover only his bid preparation costs.”)
+. Transcript of Hearing, Paper # 20, 2:20-4:8.
+. Id. 2:20-9:19.
+. Id. 4:23-5:22.
+. Id. 9:21-11:23.
+. Id., 13:6-7.
+. See generally Id.
+. Mandate of USCA, Paper # 26.
+. Fed.R.Civ.P. 15(a).
+. Judge v. City of Lowell, 160 F.3d 67, 79 (1st Cir.1998).
+. Coventry Sewage Assocs. v. Dworkin Realty Co. 71 F.3d 1, 4 (1st Cir.1995).
+. Spielman v. Genzyme Corp., 251 F.3d 1, 5 (1st Cir.2001).
+. Lynch v. Porter, 446 F.2d 225, 228 (8th Cir.1971).
+. Zurich Am. Ins. Co. v. Integrand Assur. Co., 178 F.Supp.2d 47, 48-49 (D.P.R.2001) (dismissing a case where a Plaintiff amended its complaint to reduce its demand after settling with some parties).
