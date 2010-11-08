@@ -1,0 +1,27 @@
+---
+court: "United States District Court for the District of Puerto Rico"
+docket: "Criminal No. 09-131 (ADC/BJM)"
+decided: "2010-11-08"
+citations: ["785 F. Supp. 2d 1"]
+reporter: "f-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES of America, Plaintiff, v. [1] Edgardo COLÓN-LEDEÉ, [2] Astrid Colón-Ledeé, Defendants."]
+source_url: "https://static.case.law/f-supp-2d/785/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4251441
+cites_cases: ["314 F.Supp.2d 279", "434 F.3d 609"]
+---
+
+# United States v. Colón-Ledeé
+
+## Majority (BRUCE J. McGIVERIN, United States Magistrate Judge.)
+
+ORDER
+BRUCE J. McGIVERIN, United States Magistrate Judge.
+Before the court are defendants’ Motion to Strike for Surplusage (Docket No. 74) and Motion to Strike “Chapter 7 Bankruptcy” General Allegations (Docket No. 92), and the government’s opposition. (Docket No. 121). Both motions seek to strike certain allegations of the indictment as surplusage pursuant to Rule 7(d) of the Federal Rules of Criminal Procedure.
+Rule 7(d) provides that “[u]pon the defendant’s motion, the court may-strike surplusage from the indictment or information.” Fed.R.Crim.P. 7(d). However, background information that is relevant is not considered surplusage. “While Rule 7(c)(1) provides that an indictment ‘need not a formal introduction,’ it does not prohibit a background section. Moreover, the [Second Circuit] has affirmed that background paragraphs need not be stricken from an indictment where they are relevant to the crimes charged.” United States v. Sattar, 314 F.Supp.2d 279, 320 (S.D.N.Y.2004) (citing Fed.R.Crim.P. 7(c)(1); further citations omitted). Words describing what is legally essential to the charge in the indictment need not be stricken as surplusage. Id. at 320-21. In addition, a motion to strike surplusage should be granted only if it is clear that the allegations are not relevant to the charge and are inflammatory and prejudicial. Charles Alan Wright and Andrew D. Leipold, Federal Practice and Procedure § 128 (4th ed.2008). “Logic demands the conjunctive standard: information that is prejudicial, yet relevant to the indictment, must be included for any future conviction to stand and information that is irrelevant need not be struck if there is no evidence that the defendant was prejudiced by its inclusion.” United States v. Hedgepeth, 434 F.3d 609, 612-613 (3d Cir.2006). The motion to strike surplusage is addressed to the discretion of the court. Charles Alan Wright and Andrew D. Leipold, Federal Practice and Procedure § 128 (4th ed.2008).
+Defendant Edgardo Colón-Ledeé seeks to strike paragraph 15 of the indictment. That paragraph charges that “[o]n or about June 19, 2001, EDGARDO-CO-LÓN, [sic] purchased Malaga # 1 from an individual known to the Grand Jury for eight hundred and fifty thousand dollars ($850,000).” (Docket No. 3, p. 4). Defendant contends that the inclusion of this paragraph may lead the jury to infer that the purchase was an illegal act and is liable to cause confusion. (Docket No. 74, p. 3). Defendant’s concern is unfounded, insofar as the mere purchase of the property by itself raises no nefarious inferences. Moreover, paragraph 15 is relevant to the alleged illegal activity described in paragraph 16. Paragraph 16 states: “On or about August 17, 2002, approximately nine months before filing for bankruptcy, EDGARDO COLÓN and ASTRID COLÓN, in her capacity of president of Investments Unlimited, transferred Malaga # 1 from EDGARDO COLÓN to Investments Unlimited, in exchange for the payment of an alleged debt of forty thousand dollars ($40,000).” (Docket No. 3, p. 4). Paragraph 15 provides information that is relevant to the understanding of paragraph 16 which illustrates how defendant allegedly committed bankruptcy fraud as alleged in the indictment.
+Defendant Astrid Colón-Ledeé moves to strike the “Chapter 7 Bankruptcy” general allegation section. Although defendant does not specify the exact language she objects to, she appears to be referring to the allegations in paragraphs 1 through 7 of the indictment. (See Docket No. 3, p. 1-2). Defendant contends that the inclusion of the government’s interpretation of the Bankruptcy Code is a self-serving introduction and should not be included in the indictment because it is an attempt by the government to instruct the jury as to the interpretation, application, and requirements of the law. (Docket No. 92, p. 1-3). However, defendant fails to point out any specific deficiencies or inaccuracies in the indictment’s summary of bankruptcy law. Moreover, the “Chapter 7 Bankruptcy” general allegations provide relevant background information as they explain the bankruptcy procedure which defendants were allegedly trying to unlawfully exploit through bankruptcy fraud. In short, I find that the allegations are relevant to the instant case and that defendant has failed to specify any prejudice due to their inclusion. Finally, any concern that the allegations misstate the bankruptcy procedures relevant to this case may be addressed at trial through jury instructions, provided, of course, that defendant demonstrates that such misstatement indeed exists.
+In light of the foregoing, the defendants’ motions to strike surplusage from the indictment are hereby DENIED.
+IT IS SO ORDERED.
