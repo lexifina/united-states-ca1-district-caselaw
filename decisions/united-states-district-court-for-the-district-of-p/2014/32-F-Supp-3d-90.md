@@ -2,7 +2,7 @@
 court: "United States District Court for the District of Puerto Rico"
 docket: "Civil No. 12-2024 (FAB)"
 decided: "2014-08-13"
-citations: ["32 F. Supp. 3d 90", "32 F. Supp. 3d 99"]
+citations: ["32 F. Supp. 3d 90"]
 reporter: "f-supp-3d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Miguel A. RAMIREZ-ORTIZ, Jose Irizarry, Javier Irizarry-Ortiz and Eli
 source_url: "https://static.case.law/f-supp-3d/32/cases/0090-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4325093
-cites_cases: ["1 F.3d 74", "1 P.R. Offic. Trans. 293", "101 P.R. Dec. 209", "111 F.3d 184", "116 D.P.R. 397", "135 P.R. Dec. 540", "146 D.P.R. 267", "16 P.R. Offic. Trans. 487", "184 D.P.R. 281", "189 F.R.D. 31", "1994 WL 909224", "2014 U.S. Dist. LEXIS 101057", "2014 WL 3611320", "217 F.3d 46", "23 F.3d 576", "355 F.3d 6", "388 F.3d 354", "422 F.3d 47", "428 F.Supp.2d 34", "434 F.3d 810", "477 U.S. 317", "523 F.3d 69", "547 F.Supp.2d 141", "568 F.3d 278", "573 F.3d 17", "605 F.3d 109", "630 F.Supp. 750", "632 F.3d 777", "636 F.3d 20", "723 F.Supp.2d 416", "882 F.Supp. 220", "895 F.2d 46", "902 F.Supp.2d 217", "928 F.Supp.2d 564", "960 F.Supp.2d 862", "P.R. Laws Ann. tit. 31, § 5141"]
+cites_cases: ["111 F.3d 184", "116 D.P.R. 397", "146 D.P.R. 267", "16 P.R. Offic. Trans. 487", "184 D.P.R. 281", "189 F.R.D. 31", "217 F.3d 46", "23 F.3d 576", "355 F.3d 6", "388 F.3d 354", "428 F.Supp.2d 34", "477 U.S. 317", "547 F.Supp.2d 141", "573 F.3d 17", "632 F.3d 777", "723 F.Supp.2d 416", "882 F.Supp. 220", "895 F.2d 46", "902 F.Supp.2d 217", "960 F.Supp.2d 862"]
 ---
 
 # Ramirez-Ortiz v. Corporacion del Centro Cardiovascular de Puerto Rico y del Caribe
