@@ -1,0 +1,34 @@
+---
+court: "United States District Court for the District of Massachusetts"
+docket: "Civil Action No. 13-11970-LTS"
+decided: "2015-02-25"
+citations: ["88 F. Supp. 3d 9"]
+reporter: "f-supp-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BOMBAY MAHAL RESTAURANT, INC., et al., Plaintiffs, v. Eric, HOLDER, Jr., et al., Defendants."]
+source_url: "https://static.case.law/f-supp-3d/88/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4307510
+cites_cases: ["2 F.Supp.3d 108", "2014 WL 6682650", "2014 WL 6905107", "308 Fed.Appx. 418", "366 F.3d 562", "393 F.3d 886", "447 F.3d 196", "481 F.3d 222", "578 F.3d 817", "62 F.Supp.3d 175", "627 F.3d 1341", "677 F.3d 312", "8 U.S.C. § 1155", "8 U.S.C. § 1252", "941 F.Supp.2d 150"]
+---
+
+# Bombay Mahal Restaurant, Inc. v. Holder
+
+## Majority (SOROKIN, District Judge.)
+
+ORDER ON PLAINTIFFS’ MOTION FOR SUMMARY JUDGMENT AND DEFENDANTS’ CROSS-MOTION FOR SUMMARY JUDGMENT
+SOROKIN, District Judge.
+Plaintiffs appeal from a decision of the Administrative Appeals Office (“AAO”) of the United States Citizenship and Immigration Services (“USCIS”) revoking a previously issued visa petition. The US-CIS asserts that the Court lacks subject matter jurisdiction over this challenge. More specifically, the USCIS points the Court to 8 U.S.C. § 1252(a)(2)(B), which provides:
+(B) Denials of discretionary relief Notwithstanding any other provision of law (statutory or nonstatutory), ... and except as provided in subparagraph (D), ... no court shall have jurisdiction to review—
+(ii) any other decision or action of the Attorney General or the Secretary of Homeland Security the authority for which is specified under this subchapter to be in the discretion of the Attorney General or the Secretary of Homeland Security, other than the granting of relief under section 1158(a) of this title.
+8 U.S.C. § 1252(a)(2)(B). The USCIS contends that the decision whether or not to revoke the visa in this case is a decision committed to the discretion of the Secretary of Homeland Security within the meaning of § 1252. The Secretary’s authority to revoke arises from the following statutory provision: “The Secretary of Homeland Security may, at any time, for what he deems to be good and sufficient cause, revoke the approval of any petition approved by him under section 1154 of this title. Such revocation shall be effective as of the date of approval of any such petition.” 8 U.S.C. § 1155 (emphasis added). The USCIS contends that the foregoing language commits the visa revocation decision to its discretion, while Plaintiff asserts the Secretary’s authority, though encompassing some measure of discretion, is subject to and must be guided by a legal standard, “sufficient good cause,” thus rendering the decision a non-discretionary one within the meaning of § 1252.
+The question before the Court is not a matter of first impression, generally, though the First Circuit has not spoken on the issue. Seven of the eight circuits which have addressed the specific question before the Court determined that the statute commits this visa revocation decision to the discretion of the Secretary, and, accordingly, found subject matter jurisdiction for judicial review wanting. See, e.g., Mehanna v. U.S. Citizenship & Immigration Servs., 677 F.3d 312 (6th Cir.2012); Green v. Napolitano, 627 F.3d 1341 (10th Cir.2010); Abdelwahab v. Frazier, 578 F.3d 817 (8th Cir.2009); Sands v. U.S. Dep’t of Homeland Sec., 308 Fed.Appx. 418 (11th Cir.2009); Ghanem v. Upchurch, 481 F.3d 222 (5th Cir.2007); Jilin Pharm. USA, Inc. v. Chertoff, 447 F.3d 196 (3d Cir.2006); El-Khader v. Monica, 366 F.3d 562 (7th Cir.2004). Only the Ninth Circuit, in 2004, rejected the foregoing view, over a dissent, finding instead that the good and sufficient language sufficiently cabined the Secretary’s discretion such that the decision was not discretionary within the meaning of § 1252. See ANA Int’l, Inc. v. Way, 393 F.3d 886 (9th Cir.2004) (Tallman, J., dissenting). Notably, of the decisions listed above all but two cited and rejected the Ninth Circuit’s analysis in ANA. See Mehanna, 677 F.3d at 314-16; Green, 627 F.3d at 1345 n. 3; Abdelwahab, 578 F.3d at 821; Ghanem, 481 F.3d at 224-25; Jilin Pharm., 447 F.3d at 201-05. Although there is one decision from this district from 2011 following the Ninth Circuit analysis, Order at 3-4, Betancur v. Roark, No. 10-11131, ECF No. 15 (D.Mass. Aug. 19, 2011) (Gertner, J.), since this decision, one more circuit, the Sixth, and three judges of this Court, in four separate cases, have followed the circuits finding no subject matter jurisdiction. See Bernardo v. Napolitano, No. 13-11827-DJC, 2014 WL 6905107 (D.Mass. Dec. 8, 2014) (Casper, J.); De Souza v. Napolitano, No. 12-10197-NMG, 62 F.Supp.3d 175, 2014 WL 6682650 (D.Mass. Nov. 26, 2014) (Gorton, J.); Patel v. Johnson, 2 F.Supp.3d 108 (D.Mass.2014) (Young, J.); Magalhaes v. Napolitano, 941 F.Supp.2d 150 (D.Mass.2013) (Gorton, J.).
+For the following reasons, I find the statute commits the question to the Secretary’s discretion. First, the language “may, at any time,” commits the decision whether and when to act to the discretion of the Secretary. Second, the language “good and sufficient cause,” cannot be read without considering the language which precedes this phrase — “for what he deems to be good and sufficient cause.” By defining good and sufficient cause” in terms of the Secretary’s judgment, Congress committed the revocation standard to the Secretary’s discretion. Third, the persuasive weight of the circuit and district court decisions supports the conclusion that the Secretary’s decisioii is discretionary.
+Accordingly, the Defendants’ Cross-Motion for Summary Judgment (Docket # 36) is ALLOWED, the Plaintiffs’ Motion for Summary Judgment (Docket # 34) is DENIED, and this case is DISMISSED for lack of subject matter jurisdiction.
+SO ORDERED.
+. Subsection D states:
+(D) Judicial review of certain legal claims Nothing in subparagraph (B) or (C), or in any other provision of this chapter (other than this section) which limits or eliminates judicial review, shall be construed as pre-eluding review of constitutional claims or questions of law raised upon a petition for review filed with an appropriate court of appeals in accordance with this section.
+8 U.S.C. § 1252(a)(2)(D).
+. El-Khader, supra, was decided before ANA Int’l, Inc., supra, and Sands, supra, simply did not mention ANA.
+. Although Judge Young "conclude[d] that the arguments that section 1155 commits the revocation decision to the discretion of the agency are more persuasive[,]” he nonetheless proceeded to reach the merits based on "both an inter-circuit and intra-circuit split.” Patel, 2 F.Supp.3d at 119.
